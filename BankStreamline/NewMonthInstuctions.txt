@@ -1,0 +1,39 @@
+
+
+Downloading the debit transactions
+1. Log in to RRCU and open the checking account transactions
+2. Filter the data to only include last month
+3. Download the data as a csv file 
+4. In file explorer, move the file into Downloads/BankStreamline/Data 
+5. Rename the new file to DebitHistory 
+6. Move the old debit file (DebitHistory) to the dataArchives folder
+    a. add the month and year to the file name like so... DebitHistory_Apr_2025
+
+Downloading the credit transactions
+1. Log in to RRCU and open the Visa Platinum Rewards account
+    a. Click details & settings
+    b. Click link under View Credit Card
+    c. Click recent activity (orange button)
+2. Filter the data to only include last month
+    a. left button a bit above the date column of the table
+3. Download the data as a csv file 
+4. In file explorer, move the file into Downloads/BankStreamline/Data 
+5. Rename the new file to CreditHistory 
+6. Move the old credit file (CreditHistory) to the dataArchives folder
+   a. add the month and year to the file name like so... CreditHistory_Apr_2025
+
+
+Running Python
+1. Open VSCode
+2. Go to the AddCredit file 
+3. Go to the (load the data) cell
+4. Uncomment the code (ctrl A, then ctrl /)
+5. Push run all at the top
+6. Comment the same code (same way as step 4)
+7. Do the same for the AddDebit file
+
+
+Look at the analysis
+1. Complete all the steps above.
+2. Go to the Analysis file and click run all
+3. Scroll through file to look at graphs
