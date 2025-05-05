@@ -15,8 +15,9 @@ from dateutil.relativedelta import relativedelta
 st.header('Financial Data Analysis')
 
 
+df = pd.read_csv(r'https://raw.githubusercontent.com/blakedennett/FinancialStreamline2/refs/heads/main/BankStreamline/Data/BankDataProd.csv?token=GHSAT0AAAAAADDLKTTFA5OTUWAX5YB6OCWI2AZCKEQ')
+df = pl.DataFrame(df)
 
-df = pl.read_csv(r'C:\Users\Blake Dennett\Downloads\StreamlineRepo\FinancialStreamline\BankStreamline\Data\BankDataProd.csv')
 
 df = df.with_columns(
     pl.col("date").str.strptime(pl.Date, "%Y-%m-%d", strict=False)
