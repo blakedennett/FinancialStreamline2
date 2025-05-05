@@ -16,7 +16,7 @@ st.header('Financial Data Analysis')
 
 
 
-df = pl.read_csv(r'C:\Users\Blake Dennett\Downloads\BankStreamline\Data\BankDataProd.csv')
+df = pl.read_csv(r'C:\Users\Blake Dennett\Downloads\StreamlineRepo\FinancialStreamline\BankStreamline\Data\BankDataProd.csv')
 
 df = df.with_columns(
     pl.col("date").str.strptime(pl.Date, "%Y-%m-%d", strict=False)
