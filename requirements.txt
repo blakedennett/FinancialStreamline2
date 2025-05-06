@@ -1,0 +1,11 @@
+streamlit
+polars
+plotly.express
+pandas
+plotly.graph_objects
+matplotlib.pyplot
+matplotlib.dates
+time
+csv
+datetime
+dateutil.relativedelta
