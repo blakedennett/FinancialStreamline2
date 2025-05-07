@@ -1,2 +1,3 @@
 polars
 plotly.express
+matplotlib.pyplot
