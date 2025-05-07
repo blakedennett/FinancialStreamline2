@@ -1,4 +1,5 @@
-# to run type: "streamlit run Streamlit.py"
+# type this: cd "BankStreamline"
+# then to run type: "streamlit run Streamlit.py"
 import streamlit as st
 import polars as pl
 import plotly.express as px
@@ -12,7 +13,8 @@ from dateutil.relativedelta import relativedelta
 st.header('Financial Data Analysis')
 
 
-df = pd.read_csv(r'https://raw.githubusercontent.com/blakedennett/FinancialStreamline2/refs/heads/main/BankStreamline/Data/BankDataProd.csv?token=GHSAT0AAAAAADDLKTTFA5OTUWAX5YB6OCWI2AZCKEQ')
+# df = pd.read_csv(r'https://raw.githubusercontent.com/blakedennett/FinancialStreamline2/refs/heads/main/BankStreamline/Data/BankDataProd.csv?token=GHSAT0AAAAAADDLKTTFA5OTUWAX5YB6OCWI2AZCKEQ')
+df = pd.read_csv(r'https://raw.githubusercontent.com/blakedennett/FinancialStreamline2/refs/heads/main/BankStreamline/Data/BankDataProd.csv')
 df = pl.DataFrame(df)
 
 
