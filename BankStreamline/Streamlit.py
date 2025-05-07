@@ -4,10 +4,7 @@ import polars as pl
 import plotly.express as px
 import pandas as pd
 import plotly.graph_objects as go
-import matplotlib.pyplot as plt
-from matplotlib.dates import DateFormatter, date2num
 import time
-import csv
 from datetime import datetime, timedelta
 from dateutil.relativedelta import relativedelta
 
