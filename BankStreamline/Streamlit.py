@@ -1,5 +1,5 @@
 # type this: cd "BankStreamline"
-# then to run type: "streamlit run Streamlit.py"
+# then to run type: streamlit run Streamlit.py
 import streamlit as st
 import polars as pl
 import plotly.express as px
