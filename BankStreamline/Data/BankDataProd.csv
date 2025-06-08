@@ -784,7 +784,7 @@ date,category,description,cost,controllable,monthName,month,day,year,weekDay,car
 2024-11-17,food,DOLLAR TREE              EL DORADO    AR,6.78,1,Nov,11,17,2024,Sun,Credit,4
 2024-11-17,food,LITTLE CAESARS 1494-0005 EL DORADO    AR,11.83,1,Nov,11,17,2024,Sun,Credit,4
 2025-4-29,wmt,POS Withdrawal Walmart.com  Bentonville AR,44.23,1,Apr,4,29,2025,Tue,Debit,2
-2025-4-29,misc,Check,25.24,1,Apr,4,29,2025,Tue,Debit,2
+2025-4-29,water,Check,25.24,1,Apr,4,29,2025,Tue,Debit,2
 2025-4-29,gas,POS Withdrawal MURPHY7520ATWALMART  EL DORADO AR,22.24,0,Apr,4,29,2025,Tue,Debit,2
 2025-4-28,wmt,POS Withdrawal Walmart.com  Bentonville AR,1.54,1,Apr,4,28,2025,Mon,Debit,2
 2025-4-27,wmt,Card purchase WALMART.COM    04-26-2025,1.68,1,Apr,4,27,2025,Sun,Debit,2
