@@ -874,12 +874,10 @@ date,category,description,cost,controllable,monthName,month,day,year,weekDay,car
 2025-5-2,wmt,WAL-MART #0530           EL DORADO    AR,16.5,1,May,5,2,2025,Fri,Credit,2
 2025-5-2,unknown,CORNER POST              EL DORADO    AR,3.31,1,May,5,2,2025,Fri,Credit,2
 2025-5-31,food,Card purchase TST*BAREFOOT BISTRO BA    05-30-2025,24.77,1,May,5,31,2025,Sat,Debit,2
-2025-5-31,amazon,Credit or debit card Withdrawal AMAZON MKTPLACE PMTS    XXXXXXXXXXXX5143,211.99,1,May,5,31,2025,Sat,Debit,2
 2025-5-31,wmt,POS Withdrawal WM SUPERCENTER #530  EL DORADO AR,14.36,1,May,5,31,2025,Sat,Debit,2
 2025-5-30,amazon,Card purchase AMAZON MKTPL*N60JO6JR2    05-29-2025,3.9,1,May,5,30,2025,Fri,Debit,2
 2025-5-30,amazon,Card purchase AMAZON MKTPL*NN01T6BI1    05-29-2025,7.8,1,May,5,30,2025,Fri,Debit,2
 2025-5-29,amazon,Card purchase Amazon.com*NN0M15AY0    05-28-2025,18.29,1,May,5,29,2025,Thu,Debit,2
-2025-5-29,amazon,Card purchase AMAZON MKTPL*NN8HE2TY0    05-28-2025,23.5,1,May,5,29,2025,Thu,Debit,2
 2025-5-29,water,SHARE CHECK,24.47,0,May,5,29,2025,Thu,Debit,2
 2025-5-29,wmt,POS Withdrawal Walmart.com  Bentonville AR,68.36,1,May,5,29,2025,Thu,Debit,2
 2025-5-25,amazon,Credit or debit card Withdrawal AMAZON MKTPLACE PMTS    XXXXXXXXXXXX5143,25.43,1,May,5,25,2025,Sun,Debit,2
@@ -905,7 +903,6 @@ date,category,description,cost,controllable,monthName,month,day,year,weekDay,car
 2025-5-14,food,Card purchase CORPORATE OFFICE 1111    05-13-2025,4.38,1,May,5,14,2025,Wed,Debit,2
 2025-5-13,subscriptions,"Bill payment Withdrawal Phtoshp Lightrm Bndl Park Avenue,345 adobe.com, CA",9.99,1,May,5,13,2025,Tue,Debit,2
 2025-5-12,progressive,ACH Withdrawal PROG DIRECT INS INS PREM Blake Dennett BRANCH03DEBIT ACH,187.44,0,May,5,12,2025,Mon,Debit,2
-2025-5-11,amazon,Card purchase Amazon.com*NI1IB2JM0    05-09-2025,26.15,1,May,5,11,2025,Sun,Debit,2
 2025-5-11,unknown,Card purchase LOY*SAMA    05-09-2025,53.5,1,May,5,11,2025,Sun,Debit,2
 2025-5-11,wmt,POS Withdrawal Walmart.com  Bentonville AR,53.47,1,May,5,11,2025,Sun,Debit,2
 2025-5-10,wmt,POS Withdrawal Walmart.com  Bentonville AR,3.37,1,May,5,10,2025,Sat,Debit,2
@@ -917,11 +914,9 @@ date,category,description,cost,controllable,monthName,month,day,year,weekDay,car
 2025-5-6,wmt,POS Withdrawal Walmart.com  Bentonville AR,46.43,1,May,5,6,2025,Tue,Debit,2
 2025-5-6,tithing,ACH Withdrawal Ch JesusChrist DONATION BLAKE DANIEL DENNETT 202505051205419,423.28,0,May,5,6,2025,Tue,Debit,2
 2025-5-5,rent,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,775.0,0,May,5,5,2025,Mon,Debit,2
-2025-5-4,amazon,Card purchase AMAZON MKTPL*N20HS8R11    05-01-2025,25.43,1,May,5,4,2025,Sun,Debit,2
 2025-5-3,unknown,POS Withdrawal SQ *PITMAN'S CUSTOM LEATH  EL DORADO AR,9.0,1,May,5,3,2025,Sat,Debit,2
 2025-5-2,amazon,Card purchase AMAZON MKTPL*N23KJ39G1    05-01-2025,18.54,1,May,5,2,2025,Fri,Debit,2
 2025-5-2,amazon,Card purchase AMAZON MKTPL*N252E4I21    05-01-2025,21.68,1,May,5,2,2025,Fri,Debit,2
-2025-5-2,amazon,Card purchase Amazon.com*NB95F2RW2    05-01-2025,25.93,1,May,5,2,2025,Fri,Debit,2
 2025-5-2,unknown,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,30.0,1,May,5,2,2025,Fri,Debit,2
 2025-5-1,wmt,POS Withdrawal Walmart.com  Bentonville AR,52.02,1,May,5,1,2025,Thu,Debit,2
 2025-5-1,amazon,Card purchase AMAZON MKTPL*4O9TV0633    04-30-2025,211.99,1,May,5,1,2025,Thu,Debit,2
