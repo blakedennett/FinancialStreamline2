@@ -880,7 +880,6 @@ date,category,description,cost,controllable,monthName,month,day,year,weekDay,car
 2025-5-29,amazon,Card purchase Amazon.com*NN0M15AY0    05-28-2025,18.29,1,May,5,29,2025,Thu,Debit,2
 2025-5-29,water,SHARE CHECK,24.47,0,May,5,29,2025,Thu,Debit,2
 2025-5-29,wmt,POS Withdrawal Walmart.com  Bentonville AR,68.36,1,May,5,29,2025,Thu,Debit,2
-2025-5-25,amazon,Credit or debit card Withdrawal AMAZON MKTPLACE PMTS    XXXXXXXXXXXX5143,25.43,1,May,5,25,2025,Sun,Debit,2
 2025-5-25,subscriptions,Card purchase Spotify USA    05-24-2025,11.99,1,May,5,25,2025,Sun,Debit,2
 2025-5-25,gas,Card purchase MURPHY7520ATWALMART    05-23-2025,26.09,0,May,5,25,2025,Sun,Debit,2
 2025-5-23,misc,"Bill payment Withdrawal O NEALGAS INC-IGNITE 800-259-5051 LA ,",129.73,1,May,5,23,2025,Fri,Debit,2
@@ -919,5 +918,4 @@ date,category,description,cost,controllable,monthName,month,day,year,weekDay,car
 2025-5-2,amazon,Card purchase AMAZON MKTPL*N252E4I21    05-01-2025,21.68,1,May,5,2,2025,Fri,Debit,2
 2025-5-2,misc,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,30.0,1,May,5,2,2025,Fri,Debit,2
 2025-5-1,wmt,POS Withdrawal Walmart.com  Bentonville AR,52.02,1,May,5,1,2025,Thu,Debit,2
-2025-5-1,amazon,Card purchase AMAZON MKTPL*4O9TV0633    04-30-2025,211.99,1,May,5,1,2025,Thu,Debit,2
 2025-5-1,misc,Check for Lexa birth certificate manual entry,77.0,1,May,5,1,2025,Thu,Debit,2
