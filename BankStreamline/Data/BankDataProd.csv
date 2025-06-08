@@ -858,7 +858,7 @@ date,category,description,cost,controllable,monthName,month,day,year,weekDay,car
 2025-5-28,food,CORPORATE OFFICE 1111    EL DORADO    AR,2.78,1,May,5,28,2025,Wed,Credit,2
 2025-5-25,wmt,WM SUPERCENTER #530      EL DORADO    AR,7.68,1,May,5,25,2025,Sun,Credit,2
 2025-5-25,wmt,WM SUPERCENTER #530      EL DORADO    AR,16.44,1,May,5,25,2025,Sun,Credit,2
-2025-5-25,unknown,CORNER POST              EL DORADO    AR,1.04,1,May,5,25,2025,Sun,Credit,2
+2025-5-25,misc,CORNER POST              EL DORADO    AR,1.04,1,May,5,25,2025,Sun,Credit,2
 2025-5-22,food,CORPORATE OFFICE 1111    EL DORADO    AR,4.38,1,May,5,22,2025,Thu,Credit,2
 2025-5-21,food,JOHNNY B'S GRILL         EL DORADO    AR,46.46,1,May,5,21,2025,Wed,Credit,2
 2025-5-21,food,CORPORATE OFFICE 1111    EL DORADO    AR,1.75,1,May,5,21,2025,Wed,Credit,2
@@ -867,12 +867,12 @@ date,category,description,cost,controllable,monthName,month,day,year,weekDay,car
 2025-5-15,wmt,WM SUPERCENTER #530      EL DORADO    AR,4.87,1,May,5,15,2025,Thu,Credit,2
 2025-5-15,fun,LION'S CLUB GOLF COURSE  EL DORADO    AR,9.0,1,May,5,15,2025,Thu,Credit,2
 2025-5-13,food,CORPORATE OFFICE 1111    EL DORADO    AR,1.75,1,May,5,13,2025,Tue,Credit,2
-2025-5-13,unknown,CORNER POST              EL DORADO    AR,1.04,1,May,5,13,2025,Tue,Credit,2
+2025-5-13,misc,CORNER POST              EL DORADO    AR,1.04,1,May,5,13,2025,Tue,Credit,2
 2025-5-11,gas,MURPHY7520ATWALMART      EL DORADO    AR,15.56,0,May,5,11,2025,Sun,Credit,2
 2025-5-9,wmt,WM SUPERCENTER #530      EL DORADO    AR,6.3,1,May,5,9,2025,Fri,Credit,2
 2025-5-9,gas,MURPHY7520ATWALMART      EL DORADO    AR,41.54,0,May,5,9,2025,Fri,Credit,2
 2025-5-2,wmt,WAL-MART #0530           EL DORADO    AR,16.5,1,May,5,2,2025,Fri,Credit,2
-2025-5-2,unknown,CORNER POST              EL DORADO    AR,3.31,1,May,5,2,2025,Fri,Credit,2
+2025-5-2,misc,CORNER POST              EL DORADO    AR,3.31,1,May,5,2,2025,Fri,Credit,2
 2025-5-31,food,Card purchase TST*BAREFOOT BISTRO BA    05-30-2025,24.77,1,May,5,31,2025,Sat,Debit,2
 2025-5-31,wmt,POS Withdrawal WM SUPERCENTER #530  EL DORADO AR,14.36,1,May,5,31,2025,Sat,Debit,2
 2025-5-30,amazon,Card purchase AMAZON MKTPL*N60JO6JR2    05-29-2025,3.9,1,May,5,30,2025,Fri,Debit,2
@@ -883,11 +883,11 @@ date,category,description,cost,controllable,monthName,month,day,year,weekDay,car
 2025-5-25,amazon,Credit or debit card Withdrawal AMAZON MKTPLACE PMTS    XXXXXXXXXXXX5143,25.43,1,May,5,25,2025,Sun,Debit,2
 2025-5-25,subscriptions,Card purchase Spotify USA    05-24-2025,11.99,1,May,5,25,2025,Sun,Debit,2
 2025-5-25,gas,Card purchase MURPHY7520ATWALMART    05-23-2025,26.09,0,May,5,25,2025,Sun,Debit,2
-2025-5-23,unknown,"Bill payment Withdrawal O NEALGAS INC-IGNITE 800-259-5051 LA ,",129.73,1,May,5,23,2025,Fri,Debit,2
+2025-5-23,misc,"Bill payment Withdrawal O NEALGAS INC-IGNITE 800-259-5051 LA ,",129.73,1,May,5,23,2025,Fri,Debit,2
 2025-5-23,internet,"ACH Withdrawal VIASAT, INC. J2531 RCUR BLAKE DENNETT",137.66,0,May,5,23,2025,Fri,Debit,2
-2025-5-23,unknown,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,236.62,1,May,5,23,2025,Fri,Debit,2
+2025-5-23,misc,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,236.62,1,May,5,23,2025,Fri,Debit,2
 2025-5-22,shopping,Card purchase T J MAXX #1330    05-20-2025,32.89,1,May,5,22,2025,Thu,Debit,2
-2025-5-21,unknown,Card purchase 5230 EL DORADO    05-20-2025,12.47,1,May,5,21,2025,Wed,Debit,2
+2025-5-21,misc,Card purchase 5230 EL DORADO    05-20-2025,12.47,1,May,5,21,2025,Wed,Debit,2
 2025-5-21,amazon,"Bill payment Withdrawal AMAZON PRIME*NW04T8WH0 Amzn.com/bill WA ,",8.13,1,May,5,21,2025,Wed,Debit,2
 2025-5-21,wmt,POS Withdrawal Walmart.com  Bentonville AR,4.0,1,May,5,21,2025,Wed,Debit,2
 2025-5-20,amazon,Card purchase AMAZON MKTPL*NZ64432D2    05-19-2025,16.25,1,May,5,20,2025,Tue,Debit,2
@@ -898,26 +898,26 @@ date,category,description,cost,controllable,monthName,month,day,year,weekDay,car
 2025-5-20,wmt,POS Withdrawal Walmart.com  Bentonville AR,16.95,1,May,5,20,2025,Tue,Debit,2
 2025-5-20,wmt,POS Withdrawal Walmart.com  Bentonville AR,1.24,1,May,5,20,2025,Tue,Debit,2
 2025-5-20,power,ACH Withdrawal ENTERGY ARKANSAS BANK DRAFT BLAKE DENNETT DIRECT DEBITING,151.0,0,May,5,20,2025,Tue,Debit,2
-2025-5-18,unknown,Card purchase ROBINHOOD SECURITIES    05-16-2025,40.0,1,May,5,18,2025,Sun,Debit,2
+2025-5-18,misc,Card purchase ROBINHOOD SECURITIES    05-16-2025,40.0,1,May,5,18,2025,Sun,Debit,2
 2025-5-16,amazon,Card purchase Amazon.com*NW7FE5JM0    05-15-2025,1.08,1,May,5,16,2025,Fri,Debit,2
 2025-5-14,food,Card purchase CORPORATE OFFICE 1111    05-13-2025,4.38,1,May,5,14,2025,Wed,Debit,2
 2025-5-13,subscriptions,"Bill payment Withdrawal Phtoshp Lightrm Bndl Park Avenue,345 adobe.com, CA",9.99,1,May,5,13,2025,Tue,Debit,2
 2025-5-12,progressive,ACH Withdrawal PROG DIRECT INS INS PREM Blake Dennett BRANCH03DEBIT ACH,187.44,0,May,5,12,2025,Mon,Debit,2
-2025-5-11,unknown,Card purchase LOY*SAMA    05-09-2025,53.5,1,May,5,11,2025,Sun,Debit,2
+2025-5-11,misc,Card purchase LOY*SAMA    05-09-2025,53.5,1,May,5,11,2025,Sun,Debit,2
 2025-5-11,wmt,POS Withdrawal Walmart.com  Bentonville AR,53.47,1,May,5,11,2025,Sun,Debit,2
 2025-5-10,wmt,POS Withdrawal Walmart.com  Bentonville AR,3.37,1,May,5,10,2025,Sat,Debit,2
 2025-5-9,food,POS Withdrawal DOLLAR GENERAL #22817  EL DORADO AR,8.86,1,May,5,9,2025,Fri,Debit,2
 2025-5-8,food,Card purchase SQ *WILDCAT SNACK AND    05-07-2025,5.49,1,May,5,8,2025,Thu,Debit,2
 2025-5-8,food,Card purchase SQ *WILDCAT SNACK AND    05-07-2025,8.78,1,May,5,8,2025,Thu,Debit,2
 2025-5-7,amazon,Card purchase AMAZON MKTPL*NB1ZI2DK0    05-06-2025,10.3,1,May,5,7,2025,Wed,Debit,2
-2025-5-6,unknown,Card purchase CORNER POST    05-05-2025,1.04,1,May,5,6,2025,Tue,Debit,2
+2025-5-6,misc,Card purchase CORNER POST    05-05-2025,1.04,1,May,5,6,2025,Tue,Debit,2
 2025-5-6,wmt,POS Withdrawal Walmart.com  Bentonville AR,46.43,1,May,5,6,2025,Tue,Debit,2
 2025-5-6,tithing,ACH Withdrawal Ch JesusChrist DONATION BLAKE DANIEL DENNETT 202505051205419,423.28,0,May,5,6,2025,Tue,Debit,2
 2025-5-5,rent,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,775.0,0,May,5,5,2025,Mon,Debit,2
-2025-5-3,unknown,POS Withdrawal SQ *PITMAN'S CUSTOM LEATH  EL DORADO AR,9.0,1,May,5,3,2025,Sat,Debit,2
+2025-5-3,misc,POS Withdrawal SQ *PITMAN'S CUSTOM LEATH  EL DORADO AR,9.0,1,May,5,3,2025,Sat,Debit,2
 2025-5-2,amazon,Card purchase AMAZON MKTPL*N23KJ39G1    05-01-2025,18.54,1,May,5,2,2025,Fri,Debit,2
 2025-5-2,amazon,Card purchase AMAZON MKTPL*N252E4I21    05-01-2025,21.68,1,May,5,2,2025,Fri,Debit,2
-2025-5-2,unknown,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,30.0,1,May,5,2,2025,Fri,Debit,2
+2025-5-2,misc,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,30.0,1,May,5,2,2025,Fri,Debit,2
 2025-5-1,wmt,POS Withdrawal Walmart.com  Bentonville AR,52.02,1,May,5,1,2025,Thu,Debit,2
 2025-5-1,amazon,Card purchase AMAZON MKTPL*4O9TV0633    04-30-2025,211.99,1,May,5,1,2025,Thu,Debit,2
-2025-5-1,unknown,Check for Lexa birth certificate manual entry,77.0,1,May,5,1,2025,Thu,Debit,2
+2025-5-1,misc,Check for Lexa birth certificate manual entry,77.0,1,May,5,1,2025,Thu,Debit,2
