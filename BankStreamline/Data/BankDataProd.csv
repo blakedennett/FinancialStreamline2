@@ -919,3 +919,46 @@ date,category,description,cost,controllable,monthName,month,day,year,weekDay,car
 2025-5-2,misc,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,30.0,1,May,5,2,2025,Fri,Debit,2
 2025-5-1,wmt,POS Withdrawal Walmart.com  Bentonville AR,52.02,1,May,5,1,2025,Thu,Debit,2
 2025-5-1,misc,Check for Lexa birth certificate manual entry,77.0,1,May,5,1,2025,Thu,Debit,2
+2025-6-30,food,Card purchase SONIC DRIVE IN #1948    06-28-2025,5.85,1,Jun,6,30,2025,Mon,Debit,2
+2025-6-29,water,Card purchase EL DORADO WATER UTI    06-27-2025,75.0,0,Jun,6,29,2025,Sun,Debit,2
+2025-6-29,misc,Card purchase UTILITY PAYMENT SERVIC    06-27-2025,2.6,1,Jun,6,29,2025,Sun,Debit,2
+2025-6-25,wmt,POS Withdrawal Walmart.com  Bentonville AR,43.1,1,Jun,6,25,2025,Wed,Debit,2
+2025-6-24,subscriptions,Card purchase Spotify USA    06-24-2025,11.99,1,Jun,6,24,2025,Tue,Debit,2
+2025-6-23,internet,"ACH Withdrawal VIASAT, INC. J2562 RCUR BLAKE DENNETT",177.65,0,Jun,6,23,2025,Mon,Debit,2
+2025-6-23,power,ACH Withdrawal ENTERGY ARKANSAS BANK DRAFT BLAKE DENNETT DIRECT DEBITING,148.0,0,Jun,6,23,2025,Mon,Debit,2
+2025-6-22,amazon,"Bill payment Withdrawal AMAZON PRIME*NO4YL63E0 Amzn.com/bill WA ,",8.13,1,Jun,6,22,2025,Sun,Debit,2
+2025-6-16,wmt,Card purchase SMITHS #4331    06-14-2025,18.48,1,Jun,6,16,2025,Mon,Debit,2
+2025-6-13,wmt,POS Withdrawal Walmart.com  Bentonville AR,45.42,1,Jun,6,13,2025,Fri,Debit,2
+2025-6-13,subscriptions,"Bill payment Withdrawal Phtoshp Lightrm Bndl Park Avenue,345 adobe.com, CA",14.99,1,Jun,6,13,2025,Fri,Debit,2
+2025-6-11,misc,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,158.0,1,Jun,6,11,2025,Wed,Debit,2
+2025-6-10,progressive,ACH Withdrawal PROG DIRECT INS INS PREM Blake Dennett BRANCH03DEBIT ACH,187.44,0,Jun,6,10,2025,Tue,Debit,2
+2025-6-10,wmt,POS Withdrawal Walmart.com  Bentonville AR,137.1,1,Jun,6,10,2025,Tue,Debit,2
+2025-6-9,misc,Check,400.0,1,Jun,6,9,2025,Mon,Debit,2
+2025-6-8,gas,Card purchase CHEVRON 0352098    06-06-2025,54.67,0,Jun,6,8,2025,Sun,Debit,2
+2025-6-8,wmt,POS Withdrawal Walmart.com  Bentonville AR,50.58,1,Jun,6,8,2025,Sun,Debit,2
+2025-6-6,misc,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,30.0,1,Jun,6,6,2025,Fri,Debit,2
+2025-6-4,car,Card purchase VAN HOOK TIRE    06-03-2025,516.09,0,Jun,6,4,2025,Wed,Debit,2
+2025-6-4,rent,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,775.0,0,Jun,6,4,2025,Wed,Debit,2
+2025-6-3,wmt,POS Withdrawal Walmart.com  Bentonville AR,43.46,1,Jun,6,3,2025,Tue,Debit,2
+2025-6-3,tithing,ACH Withdrawal Ch JesusChrist DONATION BLAKE DANIEL DENNETT 2025060212401616,388.36,0,Jun,6,3,2025,Tue,Debit,2
+2025-6-2,shopping,Card purchase SHEIN.COM    06-01-2025,14.43,1,Jun,6,2,2025,Mon,Debit,2
+2025-6-30,gas,CHEVRON 0352098          EL DORADO    AR,18.56,0,Jun,6,30,2025,Mon,Credit,2
+2025-6-29,wmt,BROOKSHIRES 40           EL DORADO    AR,8.46,1,Jun,6,29,2025,Sun,Credit,2
+2025-6-29,wmt,BROOKSHIRES 40           EL DORADO    AR,5.49,1,Jun,6,29,2025,Sun,Credit,2
+2025-6-27,misc,4TE*SOUTH ARKANSAS REGION870-863-2000 AR,19.13,1,Jun,6,27,2025,Fri,Credit,2
+2025-6-27,gas,MURPHY7520ATWALMART      EL DORADO    AR,30.66,0,Jun,6,27,2025,Fri,Credit,2
+2025-6-26,food,CORPORATE OFFICE 1111    EL DORADO    AR,1.75,1,Jun,6,26,2025,Thu,Credit,2
+2025-6-26,misc,DR MARK RISINGER         EL DORADO    AR,100.46,1,Jun,6,26,2025,Thu,Credit,2
+2025-6-25,misc,HUDSONST2020             LAS VEGAS    NV,4.49,1,Jun,6,25,2025,Wed,Credit,2
+2025-6-24,food,WENDY'S # 5604           ST GEORGE    UT,8.08,1,Jun,6,24,2025,Tue,Credit,2
+2025-6-24,food,WENDY'S # 5604           ST GEORGE    UT,7.22,1,Jun,6,24,2025,Tue,Credit,2
+2025-6-19,misc,CEDAR BAND TRAVEL PLAZA  CEDAR CITY   UT,3.49,1,Jun,6,19,2025,Thu,Credit,2
+2025-6-19,food,WENDY'S # 5604           ST GEORGE    UT,7.22,1,Jun,6,19,2025,Thu,Credit,2
+2025-6-19,food,WENDY'S # 5604           ST GEORGE    UT,8.93,1,Jun,6,19,2025,Thu,Credit,2
+2025-6-15,shopping,GLOSS* ZOE FRYE HAIR     185-57702098 NV,12.0,1,Jun,6,15,2025,Sun,Credit,2
+2025-6-13,food,CORPORATE OFFICE 1111    EL DORADO    AR,2.47,1,Jun,6,13,2025,Fri,Credit,2
+2025-6-8,wmt,WAL-MART #0530           EL DORADO    AR,3.08,1,Jun,6,8,2025,Sun,Credit,2
+2025-6-5,food,CORPORATE OFFICE 1111    EL DORADO    AR,4.38,1,Jun,6,5,2025,Thu,Credit,2
+2025-6-4,food,CORPORATE OFFICE 1111    EL DORADO    AR,1.75,1,Jun,6,4,2025,Wed,Credit,2
+2025-6-3,food,CORPORATE OFFICE 1111    EL DORADO    AR,4.38,1,Jun,6,3,2025,Tue,Credit,2
+2025-6-2,gas,MURPHY7520ATWALMART      EL DORADO    AR,18.09,0,Jun,6,2,2025,Mon,Credit,2
