@@ -924,20 +924,19 @@ date,category,description,cost,controllable,monthName,month,day,year,weekDay,car
 2025-6-29,misc,Card purchase UTILITY PAYMENT SERVIC    06-27-2025,2.6,1,Jun,6,29,2025,Sun,Debit,2
 2025-6-25,wmt,POS Withdrawal Walmart.com  Bentonville AR,43.1,1,Jun,6,25,2025,Wed,Debit,2
 2025-6-24,subscriptions,Card purchase Spotify USA    06-24-2025,11.99,1,Jun,6,24,2025,Tue,Debit,2
-2025-6-23,internet,"ACH Withdrawal VIASAT, INC. J2562 RCUR BLAKE DENNETT",177.65,0,Jun,6,23,2025,Mon,Debit,2
+2025-6-23,internet,"ACH Withdrawal VIASAT, INC. J2562 RCUR BLAKE DENNETT",137.65,0,Jun,6,23,2025,Mon,Debit,2
 2025-6-23,power,ACH Withdrawal ENTERGY ARKANSAS BANK DRAFT BLAKE DENNETT DIRECT DEBITING,148.0,0,Jun,6,23,2025,Mon,Debit,2
 2025-6-22,amazon,"Bill payment Withdrawal AMAZON PRIME*NO4YL63E0 Amzn.com/bill WA ,",8.13,1,Jun,6,22,2025,Sun,Debit,2
 2025-6-16,wmt,Card purchase SMITHS #4331    06-14-2025,18.48,1,Jun,6,16,2025,Mon,Debit,2
 2025-6-13,wmt,POS Withdrawal Walmart.com  Bentonville AR,45.42,1,Jun,6,13,2025,Fri,Debit,2
 2025-6-13,subscriptions,"Bill payment Withdrawal Phtoshp Lightrm Bndl Park Avenue,345 adobe.com, CA",14.99,1,Jun,6,13,2025,Fri,Debit,2
-2025-6-11,misc,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,158.0,1,Jun,6,11,2025,Wed,Debit,2
+2025-6-11,amazon,ACH Withdrawal VENMO PAYMENT TV Manual entry,158.0,1,Jun,6,11,2025,Wed,Debit,2
 2025-6-10,progressive,ACH Withdrawal PROG DIRECT INS INS PREM Blake Dennett BRANCH03DEBIT ACH,187.44,0,Jun,6,10,2025,Tue,Debit,2
 2025-6-10,wmt,POS Withdrawal Walmart.com  Bentonville AR,137.1,1,Jun,6,10,2025,Tue,Debit,2
 2025-6-9,misc,Check,400.0,1,Jun,6,9,2025,Mon,Debit,2
 2025-6-8,gas,Card purchase CHEVRON 0352098    06-06-2025,54.67,0,Jun,6,8,2025,Sun,Debit,2
 2025-6-8,wmt,POS Withdrawal Walmart.com  Bentonville AR,50.58,1,Jun,6,8,2025,Sun,Debit,2
 2025-6-6,misc,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,30.0,1,Jun,6,6,2025,Fri,Debit,2
-2025-6-4,car,Card purchase VAN HOOK TIRE    06-03-2025,516.09,0,Jun,6,4,2025,Wed,Debit,2
 2025-6-4,rent,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,775.0,0,Jun,6,4,2025,Wed,Debit,2
 2025-6-3,wmt,POS Withdrawal Walmart.com  Bentonville AR,43.46,1,Jun,6,3,2025,Tue,Debit,2
 2025-6-3,tithing,ACH Withdrawal Ch JesusChrist DONATION BLAKE DANIEL DENNETT 2025060212401616,388.36,0,Jun,6,3,2025,Tue,Debit,2
