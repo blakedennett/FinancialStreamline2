@@ -963,7 +963,6 @@ date,category,description,cost,controllable,monthName,month,day,year,weekDay,car
 2025-6-2,gas,MURPHY7520ATWALMART      EL DORADO    AR,18.09,0,Jun,6,2,2025,Mon,Credit,2
 2025-7-31,wmt,POS Withdrawal Walmart.com  Bentonville AR,8.77,1,Jul,7,31,2025,Thu,Debit,3
 2025-7-30,wmt,POS Withdrawal Walmart.com  Bentonville AR,41.24,1,Jul,7,30,2025,Wed,Debit,3
-2025-7-29,subscriptions,Credit or debit card Withdrawal Roku for Peacock TV LL    XXXXXXXXXXXX5143,79.99,1,Jul,7,29,2025,Tue,Debit,3
 2025-7-29,amazon,Card purchase AMAZON MKTPL*KE83U8IP3    07-28-2025,74.62,1,Jul,7,29,2025,Tue,Debit,3
 2025-7-29,amazon,Card purchase AMAZON MKTPL*8R7EH3D73    07-28-2025,51.94,1,Jul,7,29,2025,Tue,Debit,3
 2025-7-29,wmt,POS Withdrawal Walmart.com  Bentonville AR,2.0,1,Jul,7,29,2025,Tue,Debit,3
@@ -1009,7 +1008,6 @@ date,category,description,cost,controllable,monthName,month,day,year,weekDay,car
 2025-7-9,wmt,POS Withdrawal Walmart.com  Bentonville AR,48.57,1,Jul,7,9,2025,Wed,Debit,3
 2025-7-8,amazon,Card purchase AMAZON MKTPL*N39TL5YG0    07-07-2025,25.88,1,Jul,7,8,2025,Tue,Debit,3
 2025-7-8,amazon,Card purchase AMAZON MKTPL*NL2XY3FA0    07-07-2025,35.65,1,Jul,7,8,2025,Tue,Debit,3
-2025-7-8,subscriptions,Card purchase Roku for Peacock TV LL    07-08-2025,79.99,1,Jul,7,8,2025,Tue,Debit,3
 2025-7-8,tithing,ACH Withdrawal Ch JesusChrist DONATION BLAKE DANIEL DENNETT 202507071205460,376.09,0,Jul,7,8,2025,Tue,Debit,3
 2025-7-8,internet,ACH Withdrawal OPTIMUM 7701 CABLE PMNT B DENNETT,70.0,0,Jul,7,8,2025,Tue,Debit,3
 2025-7-8,wmt,POS Withdrawal Walmart.com  Bentonville AR,7.1,1,Jul,7,8,2025,Tue,Debit,3
