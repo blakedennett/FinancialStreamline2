@@ -961,3 +961,91 @@ date,category,description,cost,controllable,monthName,month,day,year,weekDay,car
 2025-6-4,food,CORPORATE OFFICE 1111    EL DORADO    AR,1.75,1,Jun,6,4,2025,Wed,Credit,2
 2025-6-3,food,CORPORATE OFFICE 1111    EL DORADO    AR,4.38,1,Jun,6,3,2025,Tue,Credit,2
 2025-6-2,gas,MURPHY7520ATWALMART      EL DORADO    AR,18.09,0,Jun,6,2,2025,Mon,Credit,2
+2025-7-31,wmt,POS Withdrawal Walmart.com  Bentonville AR,8.77,1,Jul,7,31,2025,Thu,Debit,3
+2025-7-30,wmt,POS Withdrawal Walmart.com  Bentonville AR,41.24,1,Jul,7,30,2025,Wed,Debit,3
+2025-7-29,subscriptions,Credit or debit card Withdrawal Roku for Peacock TV LL    XXXXXXXXXXXX5143,79.99,1,Jul,7,29,2025,Tue,Debit,3
+2025-7-29,amazon,Card purchase AMAZON MKTPL*KE83U8IP3    07-28-2025,74.62,1,Jul,7,29,2025,Tue,Debit,3
+2025-7-29,amazon,Card purchase AMAZON MKTPL*8R7EH3D73    07-28-2025,51.94,1,Jul,7,29,2025,Tue,Debit,3
+2025-7-29,wmt,POS Withdrawal Walmart.com  Bentonville AR,2.0,1,Jul,7,29,2025,Tue,Debit,3
+2025-7-29,wmt,POS Withdrawal Walmart.com  Bentonville AR,74.47,1,Jul,7,29,2025,Tue,Debit,3
+2025-7-28,amazon,POS Withdrawal eBay O*24-13375-61510  www.ebay.com CA,152.55,1,Jul,7,28,2025,Mon,Debit,3
+2025-7-28,misc,POS Withdrawal SQ *MAIN STREET ANTIQUES  EL DORADO AR,76.83,1,Jul,7,28,2025,Mon,Debit,3
+2025-7-28,wmt,POS Withdrawal Walmart.com  Bentonville AR,3.27,1,Jul,7,28,2025,Mon,Debit,3
+2025-7-27,food,Card purchase SONIC DRIVE IN #1948    07-25-2025,6.57,1,Jul,7,27,2025,Sun,Debit,3
+2025-7-27,food,Card purchase SONIC DRIVE IN #1948    07-25-2025,1.1,1,Jul,7,27,2025,Sun,Debit,3
+2025-7-26,wmt,POS Withdrawal WALMART.COM 8009256278  BENTONVILLE AR,42.27,1,Jul,7,26,2025,Sat,Debit,3
+2025-7-25,wmt,POS Withdrawal Walmart.com  Bentonville AR,2.87,1,Jul,7,25,2025,Fri,Debit,3
+2025-7-24,subscriptions,Card purchase Spotify P38DD91210    07-24-2025,11.99,1,Jul,7,24,2025,Thu,Debit,3
+2025-7-23,wmt,POS Withdrawal Walmart.com  Bentonville AR,52.86,1,Jul,7,23,2025,Wed,Debit,3
+2025-7-23,internet,"ACH Withdrawal VIASAT, INC. J2592 RCUR BLAKE DENNETT",104.29,0,Jul,7,23,2025,Wed,Debit,3
+2025-7-23,misc,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,30.0,1,Jul,7,23,2025,Wed,Debit,3
+2025-7-22,amazon,Card purchase AMAZON MKTPL*7F9OR3SW3    07-21-2025,27.98,1,Jul,7,22,2025,Tue,Debit,3
+2025-7-22,amazon,Card purchase Amazon.com*VN1NQ5GA3    07-21-2025,4.93,1,Jul,7,22,2025,Tue,Debit,3
+2025-7-22,wmt,POS Withdrawal Walmart.com  Bentonville AR,3.04,1,Jul,7,22,2025,Tue,Debit,3
+2025-7-21,amazon,"Bill payment Withdrawal AMAZON PRIME*Q201H5FZ3 Amzn.com/bill WA ,",16.26,1,Jul,7,21,2025,Mon,Debit,3
+2025-7-21,power,ACH Withdrawal ENTERGY ARKANSAS BANK DRAFT BLAKE DENNETT DIRECT DEBITING,143.0,0,Jul,7,21,2025,Mon,Debit,3
+2025-7-21,wmt,POS Withdrawal Walmart.com  Bentonville AR,45.95,1,Jul,7,21,2025,Mon,Debit,3
+2025-7-21,wmt,POS Withdrawal Walmart.com  Bentonville AR,52.01,1,Jul,7,21,2025,Mon,Debit,3
+2025-7-20,amazon,Card purchase AMAZON MKTPL*AU5M796Q3    07-19-2025,10.96,1,Jul,7,20,2025,Sun,Debit,3
+2025-7-20,food,Card purchase SONIC DRIVE IN #1948    07-18-2025,4.93,1,Jul,7,20,2025,Sun,Debit,3
+2025-7-20,food,Card purchase SONIC DRIVE IN #1948    07-18-2025,8.0,1,Jul,7,20,2025,Sun,Debit,3
+2025-7-20,wmt,POS Withdrawal Walmart.com  Bentonville AR,1.76,1,Jul,7,20,2025,Sun,Debit,3
+2025-7-18,misc,Card purchase EDITH YOUNG    07-18-2025,10.6,1,Jul,7,18,2025,Fri,Debit,3
+2025-7-16,wmt,POS Withdrawal WALMART.COM 8009256278  BENTONVILLE AR,55.15,1,Jul,7,16,2025,Wed,Debit,3
+2025-7-16,amazon,Card purchase AMAZON MKTPL*L46DA8W13    07-15-2025,18.65,1,Jul,7,16,2025,Wed,Debit,3
+2025-7-16,food,Card purchase SONIC DRIVE IN #1948    07-14-2025,3.83,1,Jul,7,16,2025,Wed,Debit,3
+2025-7-16,food,Card purchase SONIC DRIVE IN #1948    07-14-2025,2.29,1,Jul,7,16,2025,Wed,Debit,3
+2025-7-14,amazon,Card purchase AMAZON MKTPL*NR8FY1070    07-13-2025,35.65,1,Jul,7,14,2025,Mon,Debit,3
+2025-7-13,wmt,POS Withdrawal Walmart.com  Bentonville AR,27.4,1,Jul,7,13,2025,Sun,Debit,3
+2025-7-13,wmt,POS Withdrawal Walmart.com  Bentonville AR,1.77,1,Jul,7,13,2025,Sun,Debit,3
+2025-7-13,subscriptions,"Bill payment Withdrawal Phtoshp Lightrm Bndl Park Avenue,345 adobe.com, CA",14.99,1,Jul,7,13,2025,Sun,Debit,3
+2025-7-12,wmt,POS Withdrawal Walmart.com  Bentonville AR,37.49,1,Jul,7,12,2025,Sat,Debit,3
+2025-7-12,wmt,POS Withdrawal Walmart.com  Bentonville AR,5.07,1,Jul,7,12,2025,Sat,Debit,3
+2025-7-11,wmt,POS Withdrawal WALMART.COM 8009256278  BENTONVILLE AR,96.87,1,Jul,7,11,2025,Fri,Debit,3
+2025-7-11,wmt,POS Withdrawal WALMART.COM 8009256278  BENTONVILLE AR,26.28,1,Jul,7,11,2025,Fri,Debit,3
+2025-7-10,misc,Card purchase 5230 EL DORADO    07-09-2025,1.99,1,Jul,7,10,2025,Thu,Debit,3
+2025-7-10,amazon,Card purchase AMAZON MKTPL*NL2UM0WJ2    07-09-2025,7.67,1,Jul,7,10,2025,Thu,Debit,3
+2025-7-10,progressive,ACH Withdrawal PROG DIRECT INS INS PREM Blake Dennett BRANCH03DEBIT ACH,116.2,0,Jul,7,10,2025,Thu,Debit,3
+2025-7-9,wmt,POS Withdrawal BROOKSHIRES FUEL 48  EL DORADO AR,50.47,1,Jul,7,9,2025,Wed,Debit,3
+2025-7-9,wmt,POS Withdrawal Walmart.com  Bentonville AR,48.57,1,Jul,7,9,2025,Wed,Debit,3
+2025-7-8,amazon,Card purchase AMAZON MKTPL*N39TL5YG0    07-07-2025,25.88,1,Jul,7,8,2025,Tue,Debit,3
+2025-7-8,amazon,Card purchase AMAZON MKTPL*NL2XY3FA0    07-07-2025,35.65,1,Jul,7,8,2025,Tue,Debit,3
+2025-7-8,subscriptions,Card purchase Roku for Peacock TV LL    07-08-2025,79.99,1,Jul,7,8,2025,Tue,Debit,3
+2025-7-8,tithing,ACH Withdrawal Ch JesusChrist DONATION BLAKE DANIEL DENNETT 202507071205460,376.09,0,Jul,7,8,2025,Tue,Debit,3
+2025-7-8,internet,ACH Withdrawal OPTIMUM 7701 CABLE PMNT B DENNETT,70.0,0,Jul,7,8,2025,Tue,Debit,3
+2025-7-8,wmt,POS Withdrawal Walmart.com  Bentonville AR,7.1,1,Jul,7,8,2025,Tue,Debit,3
+2025-7-6,food,Card purchase LITTLE CAESARS 1494-00    07-03-2025,32.0,1,Jul,7,6,2025,Sun,Debit,3
+2025-7-6,food,Card purchase SONIC DRIVE IN #1948    07-04-2025,15.88,1,Jul,7,6,2025,Sun,Debit,3
+2025-7-6,wmt,POS Withdrawal Walmart.com  Bentonville AR,130.91,1,Jul,7,6,2025,Sun,Debit,3
+2025-7-5,wmt,POS Withdrawal Walmart.com  Bentonville AR,51.41,1,Jul,7,5,2025,Sat,Debit,3
+2025-7-4,wmt,POS Withdrawal Walmart.com  Bentonville AR,11.49,1,Jul,7,4,2025,Fri,Debit,3
+2025-7-3,misc,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,5.0,1,Jul,7,3,2025,Thu,Debit,3
+2025-7-2,wmt,POS Withdrawal Walmart.com  Bentonville AR,50.19,1,Jul,7,2,2025,Wed,Debit,3
+2025-7-1,shopping,Card purchase SHEIN.COM    06-29-2025,34.6,1,Jul,7,1,2025,Tue,Debit,3
+2025-7-1,misc,Card purchase USPS CHANGE OF ADDRESS    06-30-2025,1.1,1,Jul,7,1,2025,Tue,Debit,3
+2025-7-1,wmt,POS Withdrawal Walmart.com  Bentonville AR,39.67,1,Jul,7,1,2025,Tue,Debit,3
+2025-7-1,misc,Check,27.94,1,Jul,7,1,2025,Tue,Debit,3
+2025-7-1,misc,Cashier's Check Fee Withdrawal Fee,2.0,1,Jul,7,1,2025,Tue,Debit,3
+2025-7-30,misc,SHERWIN-WILLIAMS707335   EL DORADO    AR,16.43,1,Jul,7,30,2025,Wed,Credit,3
+2025-7-30,food,CORPORATE OFFICE 1111    EL DORADO    AR,4.38,1,Jul,7,30,2025,Wed,Credit,3
+2025-7-29,food,CORPORATE OFFICE 1111    EL DORADO    AR,1.31,1,Jul,7,29,2025,Tue,Credit,3
+2025-7-23,food,CORPORATE OFFICE 1111    EL DORADO    AR,1.75,1,Jul,7,23,2025,Wed,Credit,3
+2025-7-22,food,CORPORATE OFFICE 1111    EL DORADO    AR,1.75,1,Jul,7,22,2025,Tue,Credit,3
+2025-7-21,misc,THE HOME DEPOT #8537     EL DORADO    AR,53.99,1,Jul,7,21,2025,Mon,Credit,3
+2025-7-20,wmt,WAL-MART #0530           EL DORADO    AR,35.97,1,Jul,7,20,2025,Sun,Credit,3
+2025-7-20,misc,VCN*UNIONCOCIRCUITCLERK  866-255-1857 AR,169.95,1,Jul,7,20,2025,Sun,Credit,3
+2025-7-16,food,CORPORATE OFFICE 1111    EL DORADO    AR,1.75,1,Jul,7,16,2025,Wed,Credit,3
+2025-7-15,food,CORPORATE OFFICE 1111    EL DORADO    AR,1.75,1,Jul,7,15,2025,Tue,Credit,3
+2025-7-15,food,CORPORATE OFFICE 1111    EL DORADO    AR,2.06,1,Jul,7,15,2025,Tue,Credit,3
+2025-7-11,food,CORPORATE OFFICE 1111    EL DORADO    AR,3.28,1,Jul,7,11,2025,Fri,Credit,3
+2025-7-10,gas,MURPHY7520ATWALMART      EL DORADO    AR,24.75,0,Jul,7,10,2025,Thu,Credit,3
+2025-7-9,food,CORPORATE OFFICE 1111    EL DORADO    AR,1.44,1,Jul,7,9,2025,Wed,Credit,3
+2025-7-9,food,CORPORATE OFFICE 1111    EL DORADO    AR,1.75,1,Jul,7,9,2025,Wed,Credit,3
+2025-7-9,misc,THE HOME DEPOT #8537     EL DORADO    AR,35.0,1,Jul,7,9,2025,Wed,Credit,3
+2025-7-7,misc,DAVE 'S FIREWORKS        DERMOTT      AR,9.11,1,Jul,7,7,2025,Mon,Credit,3
+2025-7-6,wmt,BROOKSHIRES 48           EL DORADO    AR,6.71,1,Jul,7,6,2025,Sun,Credit,3
+2025-7-6,gas,SHELL OIL 12786340005    EL DORADO    AR,79.24,0,Jul,7,6,2025,Sun,Credit,3
+2025-7-6,gas,SHELL OIL 12786340005    EL DORADO    AR,3.4,0,Jul,7,6,2025,Sun,Credit,3
+2025-7-6,food,SONIC DRIVE IN #1948     EL DORADO    AR,11.82,1,Jul,7,6,2025,Sun,Credit,3
+2025-7-3,food,CORPORATE OFFICE 1111    EL DORADO    AR,1.75,1,Jul,7,3,2025,Thu,Credit,3
+2025-7-1,food,CORPORATE OFFICE 1111    EL DORADO    AR,4.38,1,Jul,7,1,2025,Tue,Credit,3
