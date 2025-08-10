@@ -920,7 +920,7 @@ date,category,description,cost,controllable,monthName,month,day,year,weekDay,car
 2025-5-1,wmt,POS Withdrawal Walmart.com  Bentonville AR,52.02,1,May,5,1,2025,Thu,Debit,2
 2025-5-1,misc,Check for Lexa birth certificate manual entry,77.0,1,May,5,1,2025,Thu,Debit,2
 2025-6-30,food,Card purchase SONIC DRIVE IN #1948    06-28-2025,5.85,1,Jun,6,30,2025,Mon,Debit,2
-2025-6-29,water,Card purchase EL DORADO WATER UTI    06-27-2025,75.0,0,Jun,6,29,2025,Sun,Debit,2
+2025-7-29,water,Card purchase EL DORADO WATER UTI    06-27-2025,75.0,0,Jun,6,29,2025,Sun,Debit,2
 2025-6-29,misc,Card purchase UTILITY PAYMENT SERVIC    06-27-2025,2.6,1,Jun,6,29,2025,Sun,Debit,2
 2025-6-25,wmt,POS Withdrawal Walmart.com  Bentonville AR,43.1,1,Jun,6,25,2025,Wed,Debit,2
 2025-6-24,subscriptions,Card purchase Spotify USA    06-24-2025,11.99,1,Jun,6,24,2025,Tue,Debit,2
