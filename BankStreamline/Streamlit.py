@@ -45,7 +45,7 @@ month_order = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
 
 df = df.sort("month")
 
-categories = ['All', 'food', 'amazon', 'shopping', 'misc', 'wmt', 'tithing', 'subscriptions', 'progressive', 'fun', 'power', 'gas', 'water', 'internet', 'rent', 'car']
+categories = ['All', 'food', 'amazon', 'shopping', 'misc', 'wmt', 'tithing', 'subscriptions', 'progressive', 'fun', 'power', 'gas', 'water', 'internet', 'rent', 'car', 'natural gas', 'home improvement']
 selected_category = st.selectbox("Select a category", key=1, options=(categories), label_visibility='hidden')
 
 if selected_category != 'All':
