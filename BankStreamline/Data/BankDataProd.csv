@@ -1278,3 +1278,47 @@ date,category,description,cost,controllable,monthName,month,day,year,weekDay,car
 2025-10-2,home improvement,POS Withdrawal SQ *MAIN STREET ANTIQUES  EL DORADO AR,43.9,error,Oct,10,2,2025,Thu,Debit,4
 2025-10-2,water,"ACH Withdrawal EL DORADO WATER UMS BILL DENNETT, BLAKE",62.9,0,Oct,10,2,2025,Thu,Debit,4
 2025-10-1,amazon,Card purchase AMAZON MKTPL*NJ33X8S11    10-01-2025,8.38,1,Oct,10,1,2025,Wed,Debit,4
+2025-10-31,food,SONIC DRIVE IN #1948     870-863-9491 AR,2.18,1,Oct,10,31,2025,Fri,Credit,4
+2025-10-31,wmt,WALMART.COM              800-925-6278 AR,76.15,1,Oct,10,31,2025,Fri,Credit,4
+2025-10-30,misc,USPS PO 0428080730       EL DORADO    AR,37.75,1,Oct,10,30,2025,Thu,Credit,4
+2025-10-30,gas,MURPHY 1111              EL DORADO    AR,1.75,0,Oct,10,30,2025,Thu,Credit,4
+2025-10-29,gas,MURPHY 1111              EL DORADO    AR,3.0,0,Oct,10,29,2025,Wed,Credit,4
+2025-10-28,subscriptions,NETFLIX.COM              NETFLIX.COM  CA,8.77,1,Oct,10,28,2025,Tue,Credit,4
+2025-10-28,wmt,WAL-MART #0530           EL DORADO    AR,7.11,1,Oct,10,28,2025,Tue,Credit,4
+2025-10-28,wmt,WALMART.COM 8009256278   BENTONVILLE  AR,1.0,1,Oct,10,28,2025,Tue,Credit,4
+2025-10-28,gas,MURPHY 1111              EL DORADO    AR,3.29,0,Oct,10,28,2025,Tue,Credit,4
+2025-10-28,gas,MURPHY 1111              EL DORADO    AR,1.75,0,Oct,10,28,2025,Tue,Credit,4
+2025-10-28,wmt,WALMART.COM              800-925-6278 AR,1.07,1,Oct,10,28,2025,Tue,Credit,4
+2025-10-26,wmt,WM SUPERCENTER #530      870-862-2128 AR,39.33,1,Oct,10,26,2025,Sun,Credit,4
+2025-10-26,gas,MURPHY 1111              EL DORADO    AR,3.29,0,Oct,10,26,2025,Sun,Credit,4
+2025-10-26,food,SONIC DRIVE IN #1948     870-863-9491 AR,2.18,1,Oct,10,26,2025,Sun,Credit,4
+2025-10-24,wmt,WALMART.COM 8009256278   800-966-6546 AR,74.62,1,Oct,10,24,2025,Fri,Credit,4
+2025-10-24,wmt,WALMART.COM 8009256278   800-966-6546 AR,3.85,1,Oct,10,24,2025,Fri,Credit,4
+2025-10-23,home improvement,The Sherwin-Williams Comp800-4743794  OH,101.39,error,Oct,10,23,2025,Thu,Credit,4
+2025-10-23,shopping,OLDNAVY.COM              800-427-7895 CA,27.44,1,Oct,10,23,2025,Thu,Credit,4
+2025-10-23,misc,MADISON PAYMENTS         REXBURG      ID,20.0,1,Oct,10,23,2025,Thu,Credit,4
+2025-10-23,gas,MURPHY 1111              EL DORADO    AR,2.37,0,Oct,10,23,2025,Thu,Credit,4
+2025-10-23,gas,MURPHY 1111              EL DORADO    AR,4.38,0,Oct,10,23,2025,Thu,Credit,4
+2025-10-22,home improvement,SHERWIN-WILLIAMS707335   EL DORADO    AR,50.69,error,Oct,10,22,2025,Wed,Credit,4
+2025-10-22,gas,MURPHY 1111              EL DORADO    AR,2.18,0,Oct,10,22,2025,Wed,Credit,4
+2025-10-19,wmt,WM SUPERCENTER #530      EL DORADO    AR,8.5,1,Oct,10,19,2025,Sun,Credit,4
+2025-10-19,shopping,T J MAXX #1330           EL DORADO    AR,35.1,1,Oct,10,19,2025,Sun,Credit,4
+2025-10-19,gas,MURPHY 1111              EL DORADO    AR,1.75,0,Oct,10,19,2025,Sun,Credit,4
+2025-10-19,food,SONIC DRIVE IN #1948     870-863-9491 AR,11.83,1,Oct,10,19,2025,Sun,Credit,4
+2025-10-12,home improvement,THE HOME DEPOT #8537     EL DORADO    AR,43.0,error,Oct,10,12,2025,Sun,Credit,4
+2025-10-8,wmt,WM SUPERCENTER #530      EL DORADO    AR,7.75,1,Oct,10,8,2025,Wed,Credit,4
+2025-10-7,gas,MURPHY 1111              EL DORADO    AR,3.29,0,Oct,10,7,2025,Tue,Credit,4
+2025-10-6,gas,MURPHY7520ATWALMART      EL DORADO    AR,16.55,0,Oct,10,6,2025,Mon,Credit,4
+2025-10-5,wmt,WM SUPERCENTER #530      EL DORADO    AR,51.29,1,Oct,10,5,2025,Sun,Credit,4
+2025-10-5,gas,MURPHY 1111              EL DORADO    AR,2.99,0,Oct,10,5,2025,Sun,Credit,4
+2025-10-5,gas,MURPHY7520ATWALMART      EL DORADO    AR,31.72,0,Oct,10,5,2025,Sun,Credit,4
+2025-10-3,food,SLIM CHICKENS 12408      EL DORADO    AR,14.81,1,Oct,10,3,2025,Fri,Credit,4
+2025-10-3,food,SQ *EL DORADO CREAMERY   EL DORADO    AR,8.04,1,Oct,10,3,2025,Fri,Credit,4
+2025-10-3,wmt,WM SUPERCENTER #530      EL DORADO    AR,43.88,1,Oct,10,3,2025,Fri,Credit,4
+2025-10-3,food,THE BLACK CAT CAFE       EL DORADO    AR,58.0,1,Oct,10,3,2025,Fri,Credit,4
+2025-10-2,food,SQ *SNACKS ABUELITA      El Dorado    AR,26.34,1,Oct,10,2,2025,Thu,Credit,4
+2025-10-2,gas,MURPHY 1111              EL DORADO    AR,1.75,0,Oct,10,2,2025,Thu,Credit,4
+2025-10-2,home improvement,HOBBY-LOBBY #757         EL DORADO    AR,25.75,error,Oct,10,2,2025,Thu,Credit,4
+2025-10-2,food,SONIC DRIVE IN #1948     870-863-9491 AR,2.29,1,Oct,10,2,2025,Thu,Credit,4
+2025-10-1,wmt,WM SUPERCENTER #530      EL DORADO    AR,8.37,1,Oct,10,1,2025,Wed,Credit,4
+2025-10-1,gas,MURPHY 1111              EL DORADO    AR,1.75,0,Oct,10,1,2025,Wed,Credit,4
