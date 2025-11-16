@@ -1267,13 +1267,12 @@ date,category,description,cost,controllable,monthName,month,day,year,weekDay,car
 2025-10-11,wmt,POS Withdrawal WM SUPERCENTER #530  EL DORADO AR,26.03,1,Oct,10,11,2025,Sat,Debit,4
 2025-10-10,wmt,POS Withdrawal Walmart.com  Bentonville AR,71.29,1,Oct,10,10,2025,Fri,Debit,4
 2025-10-10,subscriptions,"ACH Withdrawal ADT SECURITY SER ADTPAPACH DENNETT, BLAKE",50.47,1,Oct,10,10,2025,Fri,Debit,4
-2025-10-10,progressive,ACH Withdrawal PROG DIRECT INS INS PREM Blake Dennett BRANCH03DEBIT ACH,131.83,0,Oct,10,10,2025,Fri,Debit,4
+2025-10-10,progressive,ACH Withdrawal PROG DIRECT INS INS PREM Blake Dennett BRANCH03DEBIT ACH,20.8,0,Oct,10,10,2025,Fri,Debit,4
 2025-10-9,wmt,POS Withdrawal Walmart.com  Bentonville AR,53.22,1,Oct,10,9,2025,Thu,Debit,4
 2025-10-9,misc,ACH Withdrawal SAFEHAVENSECURIT PURCHASE BLAKE DENNETT 877-842-0818,53.78,1,Oct,10,9,2025,Thu,Debit,4
 2025-10-8,wmt,POS Withdrawal Walmart.com  Bentonville AR,13.1,1,Oct,10,8,2025,Wed,Debit,4
 2025-10-8,rent,ACH Withdrawal PENNYMAC CASH Blake Daniel Dennett,639.6,0,Oct,10,8,2025,Wed,Debit,4
 2025-10-6,misc,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,3.0,1,Oct,10,6,2025,Mon,Debit,4
-2025-10-3,home improvement,POS Withdrawal SQ *MAIN STREET ANTIQUES  EL DORADO AR,15.37,error,Oct,10,3,2025,Fri,Debit,4
 2025-10-2,food,Card purchase SONIC DRIVE IN #1948    09-30-2025,6.56,1,Oct,10,2,2025,Thu,Debit,4
 2025-10-2,home improvement,POS Withdrawal SQ *MAIN STREET ANTIQUES  EL DORADO AR,43.9,error,Oct,10,2,2025,Thu,Debit,4
 2025-10-2,water,"ACH Withdrawal EL DORADO WATER UMS BILL DENNETT, BLAKE",62.9,0,Oct,10,2,2025,Thu,Debit,4
