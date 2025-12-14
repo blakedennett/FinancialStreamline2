@@ -265,39 +265,39 @@ st.plotly_chart(fig4)
 st.plotly_chart(fig5)
 st.plotly_chart(fig6)
 st.table(f3)
-# =======================================================================================
+# ======================================================================================= data table
 
-st.subheader('Select a column to sort by')
-columns = ['date', 'category', 'description', 'cost', 'controllable', 'monthName', 'month', 'day', 'year', 'weekDay', 'cardType']
-chosen_column = st.selectbox("", key=6, options=(columns), label_visibility='hidden')
+# st.subheader('Select a column to sort by')
+# columns = ['date', 'category', 'description', 'cost', 'controllable', 'monthName', 'month', 'day', 'year', 'weekDay', 'cardType']
+# chosen_column = st.selectbox("", key=6, options=(columns), label_visibility='hidden')
 
-directions = ['Highest at the top', 'Lowest at the top']
-chosen_direction = st.selectbox("Sorting Direction", key=7, options=(directions), label_visibility='hidden')
+# directions = ['Highest at the top', 'Lowest at the top']
+# chosen_direction = st.selectbox("Sorting Direction", key=7, options=(directions), label_visibility='hidden')
 
-last_month = EndOfLastMonth.month
-correct_yr = EndOfLastMonth.year
+# last_month = EndOfLastMonth.month
+# correct_yr = EndOfLastMonth.year
 
-months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
-date_filter = st.checkbox('Filter dates', key=8, value=False)
+# months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+# date_filter = st.checkbox('Filter dates', key=8, value=False)
 
-if date_filter:
-    chosen_month = st.selectbox('Month Filter', key=9, options=months, label_visibility='hidden')
-    chosen_year = st.selectbox('year Filter', key=10, options=sorted(list(df['year'].unique()), reverse = True), label_visibility='hidden')
-    tf = df.filter((pl.col('monthName') == chosen_month) & (pl.col('year') == chosen_year))
-else:
-    tf = df
+# if date_filter:
+#     chosen_month = st.selectbox('Month Filter', key=9, options=months, label_visibility='hidden')
+#     chosen_year = st.selectbox('year Filter', key=10, options=sorted(list(df['year'].unique()), reverse = True), label_visibility='hidden')
+#     tf = df.filter((pl.col('monthName') == chosen_month) & (pl.col('year') == chosen_year))
+# else:
+#     tf = df
 
-# tf = df.filter((pl.col('month') == last_month) & (pl.col('year') == correct_yr))
+# # tf = df.filter((pl.col('month') == last_month) & (pl.col('year') == correct_yr))
 
-if chosen_direction == 'Highest at the top':
-    tf = tf.sort(chosen_column, descending=True)
-else:
-    tf = tf.sort(chosen_column, descending=False)
+# if chosen_direction == 'Highest at the top':
+#     tf = tf.sort(chosen_column, descending=True)
+# else:
+#     tf = tf.sort(chosen_column, descending=False)
     
 
-if selected_category != 'All':
-    tf = tf.filter(pl.col('category') == selected_category)
-else:
-    tf = tf
+# if selected_category != 'All':
+#     tf = tf.filter(pl.col('category') == selected_category)
+# else:
+#     tf = tf
 
-st.table(tf)
+# st.table(tf)
