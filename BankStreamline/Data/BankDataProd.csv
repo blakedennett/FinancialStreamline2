@@ -1015,6 +1015,7 @@ date,category,description,cost,controllable,monthName,month,day,year,weekDay,car
 2025-7-6,food,Card purchase SONIC DRIVE IN #1948    07-04-2025,15.88,1,Jul,7,6,2025,Sun,Debit,3
 2025-7-6,wmt,POS Withdrawal Walmart.com  Bentonville AR,130.91,1,Jul,7,6,2025,Sun,Debit,3
 2025-7-5,wmt,POS Withdrawal Walmart.com  Bentonville AR,51.41,1,Jul,7,5,2025,Sat,Debit,3
+2025-7-4,rent,ACH Withdrawal PENNYMAC CASH Blake Daniel Dennett,1269.21,0,Aug,8,4,2025,Mon,Debit,3
 2025-7-4,wmt,POS Withdrawal Walmart.com  Bentonville AR,11.49,1,Jul,7,4,2025,Fri,Debit,3
 2025-7-3,misc,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,5.0,1,Jul,7,3,2025,Thu,Debit,3
 2025-7-2,wmt,POS Withdrawal Walmart.com  Bentonville AR,50.19,1,Jul,7,2,2025,Wed,Debit,3
@@ -1089,7 +1090,6 @@ date,category,description,cost,controllable,monthName,month,day,year,weekDay,car
 2025-8-5,wmt,POS Withdrawal Walmart.com  Bentonville AR,40.48,1,Aug,8,5,2025,Tue,Debit,3
 2025-8-5,tithing,ACH Withdrawal Ch JesusChrist DONATION BLAKE DANIEL DENNETT 202508041210124,528.61,0,Aug,8,5,2025,Tue,Debit,3
 2025-8-4,amazon,Card purchase AMAZON MKTPL*NE87J1331    08-04-2025,8.77,1,Aug,8,4,2025,Mon,Debit,3
-2025-8-4,rent,ACH Withdrawal PENNYMAC CASH Blake Daniel Dennett,1269.21,0,Aug,8,4,2025,Mon,Debit,3
 2025-8-4,misc,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,3.0,1,Aug,8,4,2025,Mon,Debit,3
 2025-8-3,misc,Card purchase THE HOME DEPOT #8537    07-31-2025,7.57,1,Aug,8,3,2025,Sun,Debit,3
 2025-8-2,wmt,POS Withdrawal Walmart.com  Bentonville AR,2.0,1,Aug,8,2,2025,Sat,Debit,3
