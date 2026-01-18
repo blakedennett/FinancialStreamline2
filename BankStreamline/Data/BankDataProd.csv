@@ -1184,9 +1184,9 @@ date,category,description,cost,controllable,monthName,month,day,year,weekDay,car
 2025-9-8,wmt,POS Withdrawal Walmart.com  Bentonville AR,10.94,1,Sep,9,8,2025,Mon,Debit,3
 2025-9-8,wmt,POS Withdrawal Walmart.com  Bentonville AR,5.07,1,Sep,9,8,2025,Mon,Debit,3
 2025-9-7,food,Card purchase TST*SWOLE FOOD - GYM    09-05-2025,18.1,1,Sep,9,7,2025,Sun,Debit,3
-2025-9-5,misc,Card purchase HOMEDEPOT.COM    09-03-2025,126.68,1,Sep,9,5,2025,Fri,Debit,3
-2025-9-5,misc,Card purchase HOMEDEPOT.COM    09-03-2025,315.25,1,Sep,9,5,2025,Fri,Debit,3
-2025-9-5,misc,Card purchase HOMEDEPOT.COM    09-03-2025,676.71,1,Sep,9,5,2025,Fri,Debit,3
+2025-9-5,home improvement,Card purchase HOMEDEPOT.COM    09-03-2025,126.68,1,Sep,9,5,2025,Fri,Debit,3
+2025-9-5,home improvement,Card purchase HOMEDEPOT.COM    09-03-2025,315.25,1,Sep,9,5,2025,Fri,Debit,3
+2025-9-5,home improvement,Card purchase HOMEDEPOT.COM    09-03-2025,676.71,1,Sep,9,5,2025,Fri,Debit,3
 2025-9-4,amazon,Card purchase AMAZON MKTPL*7X2KY19K3    09-03-2025,13.12,1,Sep,9,4,2025,Thu,Debit,3
 2025-9-4,amazon,Card purchase AMAZON MKTPL*DW7H64BI3    09-03-2025,8.77,1,Sep,9,4,2025,Thu,Debit,3
 2025-9-3,amazon,Card purchase AMAZON MKTPL*ZT21B6HQ3    09-02-2025,21.68,1,Sep,9,3,2025,Wed,Debit,3
