@@ -29,16 +29,45 @@ current_yr = datetime.now().year % 100
 # ====================================================================================================================================================================================
 
 
-# source_path = r"C:\Users\Denne\Documents\VSCodeProjects\FinancialStreamline2\BankStreamline\Data\CreditHistory.csv"
-# destination_path = fr"C:\Users\Denne\Documents\VSCodeProjects\FinancialStreamline2\BankStreamline\Data\dataArchives\creditArchive\CreditHistory_{last_month}.csv"
+source_path = r"C:\Users\Denne\Documents\VSCodeProjects\FinancialStreamline2\BankStreamline\Data\CreditHistory.csv"
+destination_path = fr"C:\Users\Denne\Documents\VSCodeProjects\FinancialStreamline2\BankStreamline\Data\dataArchives\creditArchive\CreditHistory_{last_month}{current_yr}.csv"
 
 # shutil.move(source_path, destination_path)
 
 
+
 # ====================================================================================================================================================================================
-# TEST - DELETE WHEN DONE
+# Archive dedit history 
 # ====================================================================================================================================================================================
 
-# source_path = r"C:\Users\Denne\Downloads\test_file.txt"
-# destination_path = fr"C:\Users\Denne\Downloads\test\test_file_{last_month}{current_yr}.txt"
+
+source_path = r"C:\Users\Denne\Documents\VSCodeProjects\FinancialStreamline2\BankStreamline\Data\DebitHistory.csv"
+destination_path = fr"C:\Users\Denne\Documents\VSCodeProjects\FinancialStreamline2\BankStreamline\Data\dataArchives\debitArchive\CreditHistory_{last_month}{current_yr}.csv"
+
 # shutil.move(source_path, destination_path)
+
+
+
+# ====================================================================================================================================================================================
+# Move/rename new debit file
+# ====================================================================================================================================================================================
+
+
+source_path = r"C:\Users\Denne\Downloads\AccountHistory.csv"
+destination_path = fr"C:\Users\Denne\Documents\VSCodeProjects\FinancialStreamline2\BankStreamline\Data\DebitHistory.csv"
+
+# shutil.move(source_path, destination_path)
+
+
+
+
+# ====================================================================================================================================================================================
+# Move/rename new credit file
+# ====================================================================================================================================================================================
+
+
+source_path = r"C:\Users\Denne\Downloads\download.csv"
+destination_path = fr"C:\Users\Denne\Documents\VSCodeProjects\FinancialStreamline2\BankStreamline\Data\CreditHistory.csv"
+
+# shutil.move(source_path, destination_path)
+
