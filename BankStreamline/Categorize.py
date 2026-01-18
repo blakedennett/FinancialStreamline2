@@ -71,15 +71,7 @@ def make_categories(df):
     )
 
 
-    controllables = ['food', 'wmt', 'shopping', 'subscriptions', 'fun', 'misc', 'amazon', 'food']
-    uncontrollables = ['tithing', 'progressive', 'power', 'gas', 'water', 'internet', 'rent', 'car']
-
-    df = df.with_columns(controllable = pl.when(pl.col('category').is_in(controllables)).then(pl.lit(1))
-                                        .when(pl.col('category').is_in(uncontrollables)).then(pl.lit(0))
-                                        .otherwise(pl.lit('error')))
-                                        
-
-    df = df.select(['date', 'category', 'description', 'cost', 'controllable', 'monthName', 'month', 'day', 'year', 'weekDay', 'cardType', 'quarter'])
+    df = df.select(['date', 'category', 'description', 'cost', 'monthName', 'month', 'day', 'year', 'weekDay', 'cardType', 'quarter'])
 
     # df.limit(10)
 
