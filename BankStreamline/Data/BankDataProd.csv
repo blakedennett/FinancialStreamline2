@@ -1491,12 +1491,12 @@ date,category,description,cost,monthName,month,day,year,weekDay,cardType,quarter
 2026-1-30,wmt,POS Withdrawal WALMART.COM 8009256278  BENTONVILLE AR,19.58,Jan,1,30,2026,Fri,Debit,1
 2026-1-30,wmt,POS Withdrawal WALMART.COM 8009256278  BENTONVILLE AR,7.97,Jan,1,30,2026,Fri,Debit,1
 2026-1-29,amazon,POS Withdrawal AMAZON.COM*HQ31200G3  SEATTLE WA,21.94,Jan,1,29,2026,Thu,Debit,1
-2026-1-29,amazon,POS Withdrawal AMAZON.COM*6Y2HR8S03  SEATTLE WA,59.73,Jan,1,29,2026,Thu,Debit,1
+2026-1-29,home improvement,POS Withdrawal AMAZON.COM*6Y2HR8S03  SEATTLE WA,59.73,Jan,1,29,2026,Thu,Debit,1
 2026-1-29,amazon,POS Withdrawal AMAZON.COM*DM6464N93  SEATTLE WA,54.86,Jan,1,29,2026,Thu,Debit,1
 2026-1-28,amazon,Card purchase AMAZON MARK* D97FL0PO3  AMAZON.COM/MA WA 01-28-2026,30.73,Jan,1,28,2026,Wed,Debit,1
 2026-1-28,rent,ACH Withdrawal PENNYMAC CASH Blake Daniel Dennett,639.61,Jan,1,28,2026,Wed,Debit,1
 2026-1-26,home improvement,POS Withdrawal HOBBYLOBBY  EL DORADO AR,16.43,Jan,1,26,2026,Mon,Debit,1
-2026-1-26,amazon,Card purchase AMAZON MKTPL*2R95F8C63  Amzn.com/bill WA 01-26-2026,161.2,Jan,1,26,2026,Mon,Debit,1
+2026-1-26,home improvement,Card purchase AMAZON MKTPL*2R95F8C63  Amzn.com/bill WA 01-26-2026,161.2,Jan,1,26,2026,Mon,Debit,1
 2026-1-26,misc,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,75.0,Jan,1,26,2026,Mon,Debit,1
 2026-1-26,power,ACH Withdrawal ENTERGY ARKANSAS BANK DRAFT BLAKE DENNETT DIRECT DEBITING,13.8,Jan,1,26,2026,Mon,Debit,1
 2026-1-21,home improvement,Card purchase THE HOME DEPOT #8537  EL DORADO AR 01-20-2026,21.68,Jan,1,21,2026,Wed,Debit,1
@@ -1532,7 +1532,7 @@ date,category,description,cost,monthName,month,day,year,weekDay,cardType,quarter
 2026-1-22,food,MURPHY 1111              EL DORADO    AR,4.38,Jan,1,22,2026,Thu,Credit,1
 2026-1-22,food,MURPHY 1111              EL DORADO    AR,1.75,Jan,1,22,2026,Thu,Credit,1
 2026-1-22,wmt,WALMART.COM              800-925-6278 AR,40.38,Jan,1,22,2026,Thu,Credit,1
-2026-1-21,amazon,AMAZON PRIME*A27G36H33   Amzn.com/billWA,16.45,Jan,1,21,2026,Wed,Credit,1
+2026-1-21,fun,AMAZON PRIME*A27G36H33   Amzn.com/billWA,16.45,Jan,1,21,2026,Wed,Credit,1
 2026-1-21,food,MURPHY 1111              EL DORADO    AR,4.38,Jan,1,21,2026,Wed,Credit,1
 2026-1-20,misc,4TE*SOUTH ARKANSAS REGION870-863-2000 AR,1418.99,Jan,1,20,2026,Tue,Credit,1
 2026-1-20,food,MURPHY 1111              EL DORADO    AR,1.75,Jan,1,20,2026,Tue,Credit,1
@@ -1566,7 +1566,7 @@ date,category,description,cost,monthName,month,day,year,weekDay,cardType,quarter
 2026-1-9,food,MURPHY 1111              EL DORADO    AR,4.38,Jan,1,9,2026,Fri,Credit,1
 2026-1-9,food,MURPHY 1111              EL DORADO    AR,1.75,Jan,1,9,2026,Fri,Credit,1
 2026-1-9,wmt,WALMART.COM 8009256278   800-966-6546 AR,14.75,Jan,1,9,2026,Fri,Credit,1
-2026-1-8,amazon,AMAZON MKTPL*346V41LK3   Amzn.com/billWA,175.59,Jan,1,8,2026,Thu,Credit,1
+2026-1-8,home improvement,AMAZON MKTPL*346V41LK3   Amzn.com/billWA,175.59,Jan,1,8,2026,Thu,Credit,1
 2026-1-8,food,MURPHY 1111              EL DORADO    AR,1.75,Jan,1,8,2026,Thu,Credit,1
 2026-1-8,misc,5230 EL DORADO           EL DORADO    AR,2.99,Jan,1,8,2026,Thu,Credit,1
 2026-1-8,misc,5230 EL DORADO           EL DORADO    AR,12.99,Jan,1,8,2026,Thu,Credit,1

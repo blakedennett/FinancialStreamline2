@@ -43,11 +43,12 @@ def make_categories(df):
         .when(pl.col('description').str.contains('LDS DIST ONLINE STORE|DC ULTA|DC H&amp|SEPHORA.COM|SALONCENTRIC')).then(pl.lit('shopping'))
         .when(pl.col('description').str.contains('American Eagle|SPORTSMANS WAREHOUSE|ZOE FRYE HAIR|OLDNAVY')).then(pl.lit('shopping'))
                     # ======================= amazon =======================
-        .when(pl.col('description').str.contains('AMZN|AMAZON|Amazon.com|temu.com|eBay')).then(pl.lit('amazon'))
+        .when(pl.col('description').str.contains('AMZN|AMAZON|Amazon.com|temu.com|eBay') & 
+            ~pl.col('description').str.contains('AMAZON PRIME')).then(pl.lit('amazon'))
                     # ======================= fun =======================
         .when(pl.col('description').str.contains('Amazon Prime|YouTube|ZOO|MUSEUM|AQUARIUM|LION.S CLUB GOLF|PLAYSTATION NETWORK')).then(pl.lit('fun'))
         .when(pl.col('description').str.contains('COMFORT INN|CINEMA|HOLIDAY INN|El Dorado Golf|PlayStation|ROCK GYM|GRAVITY FACTORY')).then(pl.lit('fun'))
-        .when(pl.col('description').str.contains('EXCALIBUR FAMILY FUN|AIRBNB|EXPEDIA|EL DORADO GOLF|UNITED|Prime Video')).then(pl.lit('fun'))
+        .when(pl.col('description').str.contains('EXCALIBUR FAMILY FUN|AIRBNB|EXPEDIA|EL DORADO GOLF|UNITED|Prime Video|AMAZON PRIME')).then(pl.lit('fun'))
                     # ======================= power =======================
         .when(pl.col('description').str.contains('ENTERGY')).then(pl.lit('power'))
                     # ======================= car =======================
