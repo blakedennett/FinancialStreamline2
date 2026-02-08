@@ -10,8 +10,8 @@ def make_categories(df):
                     # ======================= Food =======================
         pl.when(pl.col('description').str.contains('McDon|CORPORATE|CHICK-FIL-A|SLIM CHICKENS')).then(pl.lit('food'))
         .when(pl.col('description').str.contains('MADDIES PLACE|RAISING CANES|Subway|HICKORY|HUDSONS')).then(pl.lit('food'))
-        .when(pl.col('description').str.contains('JAMBA|PIZZA|GOODCENTS|SONIC|TACO BELL|BUFFET')).then(pl.lit('food'))
-        .when(pl.col('description').str.contains('Waffle House|DAIRY QUEEN|COLDSTONE|MCGRAWS')).then(pl.lit('food'))
+        .when(pl.col('description').str.contains('JAMBA|PIZZA|GOODCENTS|SONIC|TACO BELL|BUFFET|NOVO COFFEE')).then(pl.lit('food'))
+        .when(pl.col('description').str.contains('Waffle House|DAIRY QUEEN|COLDSTONE|MCGRAWS|HUDSONNEWS')).then(pl.lit('food'))
         .when(pl.col('description').str.contains('LITTLE CAESARS|MCDON|WENDY|APPLEBEES|PERCY|TASTES ON THE FLY')).then(pl.lit('food'))
         .when(pl.col('description').str.contains('EL SUR|BAREFOOT BISTRO|YAMATO|SMOOTHIE|CREAMERY')).then(pl.lit('food'))
         .when(pl.col('description').str.contains('DOLLAR GENERAL|DOLLAR TREE|FLYING BURGER|WWW.HOMECHEF.IL')).then(pl.lit('food'))
@@ -34,9 +34,10 @@ def make_categories(df):
             ~pl.col('description').str.contains('DEPOSIT|1111')).then(pl.lit('gas'))
         .when(pl.col('description').str.contains('SHELL|CHEVRON|CIRCLE K|LOVE\'S|EXXON EXPRESSWAY|EXXON MISSLE')).then(pl.lit('gas'))
         .when(pl.col('description').str.contains('MISSLE MART')).then(pl.lit('gas'))
-                    # ======================= internet =======================
+                    # ======================= internet & phone =======================
         .when(pl.col('description').str.contains('VIASAT')).then(pl.lit('internet'))
         .when(pl.col('description').str.contains('OPTIMUM')).then(pl.lit('internet'))
+        .when(pl.col('description').str.contains('VISIBLE')).then(pl.lit('internet'))
                     # ======================= shopping =======================
         .when(pl.col('description').str.contains('T J MAXX|OLD NAVY|SHEIN|REAL DEALS|SALLY BEAUTY|REXBURG DI')).then(pl.lit('shopping'))
         .when(pl.col('description').str.contains('LDS DIST ONLINE STORE|DC ULTA|DC H&amp|SEPHORA.COM|SALONCENTRIC')).then(pl.lit('shopping'))
@@ -63,7 +64,7 @@ def make_categories(df):
         .when(pl.col('description').str.contains('SUMMIT')).then(pl.lit('natural gas'))
                     # ======================= Home improvement =======================
         .when(pl.col('description').str.contains('SHERWIN-WILLIAMS|THE HOME DEPOT|MAIN STREET ANTIQUES')).then(pl.lit('home improvement'))
-        .when(pl.col('description').str.contains('HOBBYLOBBY|EVERYBODYS ANTIQUE|HOBBY-LOBBY')).then(pl.lit('home improvement'))
+        .when(pl.col('description').str.contains('HOBBYLOBBY|EVERYBODYS ANTIQUE|HOBBY-LOBBY|MAIN STREET ANTIQUE')).then(pl.lit('home improvement'))
         .when(pl.col('description').str.contains('TIMMINS|Sherwin-Williams|WAYFAIR|HOMEDEPOT')).then(pl.lit('home improvement'))
                     # ======================= rent =======================
         .when((pl.col('description').str.contains('PENNYMAC'))).then(pl.lit('rent'))

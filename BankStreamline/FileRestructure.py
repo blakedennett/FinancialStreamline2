@@ -32,7 +32,7 @@ current_yr = datetime.now().year % 100
 source_path = r"C:\Users\Denne\Documents\VSCodeProjects\FinancialStreamline2\BankStreamline\Data\CreditHistory.csv"
 destination_path = fr"C:\Users\Denne\Documents\VSCodeProjects\FinancialStreamline2\BankStreamline\Data\dataArchives\creditArchive\CreditHistory_{last_month}{current_yr}.csv"
 
-# shutil.move(source_path, destination_path)
+shutil.move(source_path, destination_path)
 
 
 
@@ -42,9 +42,9 @@ destination_path = fr"C:\Users\Denne\Documents\VSCodeProjects\FinancialStreamlin
 
 
 source_path = r"C:\Users\Denne\Documents\VSCodeProjects\FinancialStreamline2\BankStreamline\Data\DebitHistory.csv"
-destination_path = fr"C:\Users\Denne\Documents\VSCodeProjects\FinancialStreamline2\BankStreamline\Data\dataArchives\debitArchive\CreditHistory_{last_month}{current_yr}.csv"
+destination_path = fr"C:\Users\Denne\Documents\VSCodeProjects\FinancialStreamline2\BankStreamline\Data\dataArchives\debitArchive\DebitHistory_{last_month}{current_yr}.csv"
 
-# shutil.move(source_path, destination_path)
+shutil.move(source_path, destination_path)
 
 
 
@@ -56,7 +56,7 @@ destination_path = fr"C:\Users\Denne\Documents\VSCodeProjects\FinancialStreamlin
 source_path = r"C:\Users\Denne\Downloads\AccountHistory.csv"
 destination_path = fr"C:\Users\Denne\Documents\VSCodeProjects\FinancialStreamline2\BankStreamline\Data\DebitHistory.csv"
 
-# shutil.move(source_path, destination_path)
+shutil.move(source_path, destination_path)
 
 
 
@@ -69,5 +69,5 @@ destination_path = fr"C:\Users\Denne\Documents\VSCodeProjects\FinancialStreamlin
 source_path = r"C:\Users\Denne\Downloads\download.csv"
 destination_path = fr"C:\Users\Denne\Documents\VSCodeProjects\FinancialStreamline2\BankStreamline\Data\CreditHistory.csv"
 
-# shutil.move(source_path, destination_path)
+shutil.move(source_path, destination_path)
 

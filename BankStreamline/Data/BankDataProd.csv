@@ -1399,7 +1399,6 @@ date,category,description,cost,monthName,month,day,year,weekDay,cardType,quarter
 2025-11-2,food,MURPHY 1111              EL DORADO    AR,2.47,Nov,11,2,2025,Sun,Credit,4
 2025-12-31,rent,ACH Withdrawal PENNYMAC CASH Blake Daniel Dennett,639.6,Dec,12,31,2025,Wed,Debit,4
 2025-12-30,home improvement,Card purchase THE HOME DEPOT #8537  EL DORADO AR 12-29-2025,173.41,Dec,12,30,2025,Tue,Debit,4
-2025-12-30,natural gas,ACH Withdrawal SUMMIT SUA BILLPAY BLAKE DENNETT BILLPAY,87.0,Dec,12,30,2025,Tue,Debit,4
 2025-12-30,misc,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,30.0,Dec,12,30,2025,Tue,Debit,4
 2025-12-26,power,ACH Withdrawal ENTERGY ARKANSAS BANK DRAFT BLAKE DENNETT DIRECT DEBITING,13.8,Dec,12,26,2025,Fri,Debit,4
 2025-12-23,fun,Card purchase THE ROCK GYM REXBURG  154-13165747 ID 12-23-2025,39.28,Dec,12,23,2025,Tue,Debit,4
@@ -1484,3 +1483,105 @@ date,category,description,cost,monthName,month,day,year,weekDay,cardType,quarter
 2025-12-3,food,MURPHY 1111              EL DORADO    AR,4.38,Dec,12,3,2025,Wed,Credit,4
 2025-12-2,subscriptions,NETFLIX.COM              NETFLIX.COM  CA,8.77,Dec,12,2,2025,Tue,Credit,4
 2025-12-2,food,MURPHY 1111              EL DORADO    AR,3.28,Dec,12,2,2025,Tue,Credit,4
+2026-1-31,wmt,POS Withdrawal WALMART.COM 8009256278  BENTONVILLE AR,74.5,Jan,1,31,2026,Sat,Debit,1
+2026-1-30,wmt,Card purchase WALMART.COM  800-925-6278 AR 01-30-2026,112.49,Jan,1,30,2026,Fri,Debit,1
+2026-1-30,wmt,POS Withdrawal WAL-MART #0530  EL DORADO AR,12.5,Jan,1,30,2026,Fri,Debit,1
+2026-1-30,home improvement,Card purchase THE HOME DEPOT #8537  EL DORADO AR 01-29-2026,107.32,Jan,1,30,2026,Fri,Debit,1
+2026-1-30,wmt,Card purchase WALMART.COM  800-925-6278 AR 01-30-2026,0.55,Jan,1,30,2026,Fri,Debit,1
+2026-1-30,wmt,POS Withdrawal WALMART.COM 8009256278  BENTONVILLE AR,19.58,Jan,1,30,2026,Fri,Debit,1
+2026-1-30,wmt,POS Withdrawal WALMART.COM 8009256278  BENTONVILLE AR,7.97,Jan,1,30,2026,Fri,Debit,1
+2026-1-29,amazon,POS Withdrawal AMAZON.COM*HQ31200G3  SEATTLE WA,21.94,Jan,1,29,2026,Thu,Debit,1
+2026-1-29,amazon,POS Withdrawal AMAZON.COM*6Y2HR8S03  SEATTLE WA,59.73,Jan,1,29,2026,Thu,Debit,1
+2026-1-29,amazon,POS Withdrawal AMAZON.COM*DM6464N93  SEATTLE WA,54.86,Jan,1,29,2026,Thu,Debit,1
+2026-1-28,amazon,Card purchase AMAZON MARK* D97FL0PO3  AMAZON.COM/MA WA 01-28-2026,30.73,Jan,1,28,2026,Wed,Debit,1
+2026-1-28,rent,ACH Withdrawal PENNYMAC CASH Blake Daniel Dennett,639.61,Jan,1,28,2026,Wed,Debit,1
+2026-1-26,home improvement,POS Withdrawal HOBBYLOBBY  EL DORADO AR,16.43,Jan,1,26,2026,Mon,Debit,1
+2026-1-26,amazon,Card purchase AMAZON MKTPL*2R95F8C63  Amzn.com/bill WA 01-26-2026,161.2,Jan,1,26,2026,Mon,Debit,1
+2026-1-26,misc,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,75.0,Jan,1,26,2026,Mon,Debit,1
+2026-1-26,power,ACH Withdrawal ENTERGY ARKANSAS BANK DRAFT BLAKE DENNETT DIRECT DEBITING,13.8,Jan,1,26,2026,Mon,Debit,1
+2026-1-21,home improvement,Card purchase THE HOME DEPOT #8537  EL DORADO AR 01-20-2026,21.68,Jan,1,21,2026,Wed,Debit,1
+2026-1-21,progressive,ACH Withdrawal STATE FARM RO 27 CPC-CLIENT BLAKE DENNETT,96.04,Jan,1,21,2026,Wed,Debit,1
+2026-1-20,internet,ACH Withdrawal OPTIMUM 7701 CABLE PMNT B DENNETT,60.0,Jan,1,20,2026,Tue,Debit,1
+2026-1-18,home improvement,Credit or debit card Withdrawal THE HOME DEPOT #8537 EL DORADO AR  XXXXXXXXXXXX9037,1.08,Jan,1,18,2026,Sun,Debit,1
+2026-1-18,home improvement,Card purchase THE HOME DEPOT #8537  EL DORADO AR 01-17-2026,1.08,Jan,1,18,2026,Sun,Debit,1
+2026-1-18,home improvement,Credit or debit card Withdrawal THE HOME DEPOT #8537 EL DORADO AR  XXXXXXXXXXXX9037,9.84,Jan,1,18,2026,Sun,Debit,1
+2026-1-17,home improvement,Card purchase THE HOME DEPOT #8537  EL DORADO AR 01-16-2026,19.04,Jan,1,17,2026,Sat,Debit,1
+2026-1-17,home improvement,Card purchase THE HOME DEPOT #8537  EL DORADO AR 01-16-2026,30.66,Jan,1,17,2026,Sat,Debit,1
+2026-1-15,home improvement,Card purchase THE HOME DEPOT #8537  EL DORADO AR 01-14-2026,15.11,Jan,1,15,2026,Thu,Debit,1
+2026-1-14,home improvement,Card purchase THE HOME DEPOT #8537  EL DORADO AR 01-13-2026,20.82,Jan,1,14,2026,Wed,Debit,1
+2026-1-14,rent,ACH Withdrawal PENNYMAC CASH Blake Daniel Dennett,639.6,Jan,1,14,2026,Wed,Debit,1
+2026-1-10,amazon,POS Withdrawal AMAZON.COM*E52C845P3  SEATTLE WA,24.95,Jan,1,10,2026,Sat,Debit,1
+2026-1-8,home improvement,Card purchase SQ *MAIN STREET ANTIQUE  El Dorado AR 01-08-2026,57.62,Jan,1,8,2026,Thu,Debit,1
+2026-1-7,home improvement,Card purchase THE HOME DEPOT #8537  EL DORADO AR 01-06-2026,28.49,Jan,1,7,2026,Wed,Debit,1
+2026-1-6,tithing,ACH Withdrawal Ch JesusChrist DONATION BLAKE DANIEL DENNETT 202601051553583,5.0,Jan,1,6,2026,Tue,Debit,1
+2026-1-6,tithing,ACH Withdrawal Ch JesusChrist DONATION BLAKE DANIEL DENNETT 202601051553583,528.62,Jan,1,6,2026,Tue,Debit,1
+2026-1-5,subscriptions,Card purchase Spotify USA  877-7781161 NY 01-05-2026,11.99,Jan,1,5,2026,Mon,Debit,1
+2026-1-2,water,"ACH Withdrawal EL DORADO WATER UMS BILL DENNETT, BLAKE",79.99,Jan,1,2,2026,Fri,Debit,1
+2026-1-1,natural gas,ACH Withdrawal SUMMIT SUA BILLPAY BLAKE DENNETT BILLPAY,87.0,Jan,1,1,2026,Tue,Debit,4
+2026-1-30,food,MURPHY 1111              EL DORADO    AR,2.99,Jan,1,30,2026,Fri,Credit,1
+2026-1-29,gas,EXXON MISSLE MART 7      EL DORADO    AR,4.79,Jan,1,29,2026,Thu,Credit,1
+2026-1-27,subscriptions,Netflix                  1 8445052993 CA,8.77,Jan,1,27,2026,Tue,Credit,1
+2026-1-27,internet,VISIBLE                  866-331-3527 CO,19.0,Jan,1,27,2026,Tue,Credit,1
+2026-1-25,wmt,WALMART.COM 8009256278   800-966-6546 AR,20.51,Jan,1,25,2026,Sun,Credit,1
+2026-1-25,wmt,WALMART.COM 8009256278   800-966-6546 AR,103.83,Jan,1,25,2026,Sun,Credit,1
+2026-1-25,home improvement,TIMMINS HDWE             EL DORADO    AR,5.04,Jan,1,25,2026,Sun,Credit,1
+2026-1-25,food,MURPHY 1111              EL DORADO    AR,1.75,Jan,1,25,2026,Sun,Credit,1
+2026-1-25,food,SONIC DRIVE IN #1948     870-863-9491 AR,15.22,Jan,1,25,2026,Sun,Credit,1
+2026-1-25,wmt,WALMART.COM              800-925-6278 AR,60.11,Jan,1,25,2026,Sun,Credit,1
+2026-1-23,food,MURPHY 1111              EL DORADO    AR,5.48,Jan,1,23,2026,Fri,Credit,1
+2026-1-22,food,MURPHY 1111              EL DORADO    AR,4.38,Jan,1,22,2026,Thu,Credit,1
+2026-1-22,food,MURPHY 1111              EL DORADO    AR,1.75,Jan,1,22,2026,Thu,Credit,1
+2026-1-22,wmt,WALMART.COM              800-925-6278 AR,40.38,Jan,1,22,2026,Thu,Credit,1
+2026-1-21,amazon,AMAZON PRIME*A27G36H33   Amzn.com/billWA,16.45,Jan,1,21,2026,Wed,Credit,1
+2026-1-21,food,MURPHY 1111              EL DORADO    AR,4.38,Jan,1,21,2026,Wed,Credit,1
+2026-1-20,misc,4TE*SOUTH ARKANSAS REGION870-863-2000 AR,1418.99,Jan,1,20,2026,Tue,Credit,1
+2026-1-20,food,MURPHY 1111              EL DORADO    AR,1.75,Jan,1,20,2026,Tue,Credit,1
+2026-1-20,food,MURPHY 1111              EL DORADO    AR,1.75,Jan,1,20,2026,Tue,Credit,1
+2026-1-19,home improvement,THE HOME DEPOT #8537     EL DORADO    AR,0.2,Jan,1,19,2026,Mon,Credit,1
+2026-1-19,wmt,WALMART.COM 8009256278   800-966-6546 AR,43.57,Jan,1,19,2026,Mon,Credit,1
+2026-1-18,food,SONIC DRIVE IN #1948     870-863-9491 AR,1.58,Jan,1,18,2026,Sun,Credit,1
+2026-1-18,home improvement,SHERWIN-WILLIAMS707335   EL DORADO    AR,47.8,Jan,1,18,2026,Sun,Credit,1
+2026-1-18,gas,MURPHY7520ATWALMART      EL DORADO    AR,21.98,Jan,1,18,2026,Sun,Credit,1
+2026-1-18,wmt,WALMART.COM 8009256278   800-966-6546 AR,11.56,Jan,1,18,2026,Sun,Credit,1
+2026-1-16,amazon,AMAZON MKTPL*9A2378LF3   Amzn.com/billWA,23.4,Jan,1,16,2026,Fri,Credit,1
+2026-1-16,home improvement,SHERWIN-WILLIAMS707335   EL DORADO    AR,182.1,Jan,1,16,2026,Fri,Credit,1
+2026-1-16,food,MURPHY 1111              EL DORADO    AR,3.29,Jan,1,16,2026,Fri,Credit,1
+2026-1-16,wmt,WALMART.COM              800-925-6278 AR,81.41,Jan,1,16,2026,Fri,Credit,1
+2026-1-16,wmt,WALMART.COM              800-925-6278 AR,15.46,Jan,1,16,2026,Fri,Credit,1
+2026-1-16,wmt,WALMART.COM              800-925-6278 AR,3.56,Jan,1,16,2026,Fri,Credit,1
+2026-1-16,wmt,WALMART.COM              800-925-6278 AR,6.16,Jan,1,16,2026,Fri,Credit,1
+2026-1-16,wmt,WALMART.COM 8009256278   BENTONVILLE  AR,0.6,Jan,1,16,2026,Fri,Credit,1
+2026-1-15,food,MURPHY 1111              EL DORADO    AR,1.75,Jan,1,15,2026,Thu,Credit,1
+2026-1-15,food,MURPHY 1111              EL DORADO    AR,3.28,Jan,1,15,2026,Thu,Credit,1
+2026-1-15,wmt,WALMART.COM              800-925-6278 AR,59.73,Jan,1,15,2026,Thu,Credit,1
+2026-1-15,wmt,WALMART.COM 8009256278   800-966-6546 AR,43.91,Jan,1,15,2026,Thu,Credit,1
+2026-1-14,food,MURPHY 1111              EL DORADO    AR,3.29,Jan,1,14,2026,Wed,Credit,1
+2026-1-13,food,MURPHY 1111              EL DORADO    AR,4.38,Jan,1,13,2026,Tue,Credit,1
+2026-1-13,food,MURPHY 1111              EL DORADO    AR,2.95,Jan,1,13,2026,Tue,Credit,1
+2026-1-13,food,MURPHY 1111              EL DORADO    AR,1.75,Jan,1,13,2026,Tue,Credit,1
+2026-1-12,wmt,WALMART.COM              800-925-6278 AR,0.4,Jan,1,12,2026,Mon,Credit,1
+2026-1-11,wmt,WALMART.COM 8009256278   800-966-6546 AR,67.31,Jan,1,11,2026,Sun,Credit,1
+2026-1-11,food,SONIC DRIVE IN #1948     870-863-9491 AR,13.57,Jan,1,11,2026,Sun,Credit,1
+2026-1-11,food,MURPHY 1111              EL DORADO    AR,1.64,Jan,1,11,2026,Sun,Credit,1
+2026-1-9,food,MURPHY 1111              EL DORADO    AR,4.38,Jan,1,9,2026,Fri,Credit,1
+2026-1-9,food,MURPHY 1111              EL DORADO    AR,1.75,Jan,1,9,2026,Fri,Credit,1
+2026-1-9,wmt,WALMART.COM 8009256278   800-966-6546 AR,14.75,Jan,1,9,2026,Fri,Credit,1
+2026-1-8,amazon,AMAZON MKTPL*346V41LK3   Amzn.com/billWA,175.59,Jan,1,8,2026,Thu,Credit,1
+2026-1-8,food,MURPHY 1111              EL DORADO    AR,1.75,Jan,1,8,2026,Thu,Credit,1
+2026-1-8,misc,5230 EL DORADO           EL DORADO    AR,2.99,Jan,1,8,2026,Thu,Credit,1
+2026-1-8,misc,5230 EL DORADO           EL DORADO    AR,12.99,Jan,1,8,2026,Thu,Credit,1
+2026-1-7,amazon,AMAZON MKTPL*QX1XD2LY3   Amzn.com/billWA,21.94,Jan,1,7,2026,Wed,Credit,1
+2026-1-7,amazon,AMAZON MKTPL*3Z0VO5OX3   Amzn.com/billWA,3.73,Jan,1,7,2026,Wed,Credit,1
+2026-1-7,wmt,WALMART.COM 8009256278   800-966-6546 AR,42.58,Jan,1,7,2026,Wed,Credit,1
+2026-1-7,food,MURPHY 1111              EL DORADO    AR,3.29,Jan,1,7,2026,Wed,Credit,1
+2026-1-6,food,MURPHY 1111              EL DORADO    AR,2.18,Jan,1,6,2026,Tue,Credit,1
+2026-1-6,food,MURPHY 1111              EL DORADO    AR,1.75,Jan,1,6,2026,Tue,Credit,1
+2026-1-4,wmt,WALMART.COM 8009256278   800-966-6546 AR,34.71,Jan,1,4,2026,Sun,Credit,1
+2026-1-4,amazon,AMAZON MKTPL*8R91E6FD3   Amzn.com/billWA,42.39,Jan,1,4,2026,Sun,Credit,1
+2026-1-4,wmt,WM SUPERCENTER #530      EL DORADO    AR,31.31,Jan,1,4,2026,Sun,Credit,1
+2026-1-4,misc,LITTLE ROCK MUNICIPAL AIRLITTLE ROCK  AR,130.32,Jan,1,4,2026,Sun,Credit,1
+2026-1-2,food,HUDSONNEWS  ST1104       DENVER       CO,8.3,Jan,1,2,2026,Fri,Credit,1
+2026-1-2,food,NOVO COFFEE B            DENVER       CO,15.66,Jan,1,2,2026,Fri,Credit,1
+2026-1-2,shopping,REXBURG DI               REXBURG      ID,37.1,Jan,1,2,2026,Fri,Credit,1
+2026-1-1,shopping,SP REAL DEALS REXBUR     120-86074000 ID,23.21,Jan,1,1,2026,Thu,Credit,1
+2026-1-1,gas,MURPHY7520ATWALMART      EL DORADO    AR,38.44,Jan,1,1,2026,Thu,Credit,1
