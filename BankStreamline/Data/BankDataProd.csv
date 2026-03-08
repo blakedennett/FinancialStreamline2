@@ -1493,7 +1493,6 @@ date,category,description,cost,monthName,month,day,year,weekDay,cardType,quarter
 2026-1-29,amazon,POS Withdrawal AMAZON.COM*HQ31200G3  SEATTLE WA,21.94,Jan,1,29,2026,Thu,Debit,1
 2026-1-29,home improvement,POS Withdrawal AMAZON.COM*6Y2HR8S03  SEATTLE WA,59.73,Jan,1,29,2026,Thu,Debit,1
 2026-1-29,amazon,POS Withdrawal AMAZON.COM*DM6464N93  SEATTLE WA,54.86,Jan,1,29,2026,Thu,Debit,1
-2026-1-28,amazon,Card purchase AMAZON MARK* D97FL0PO3  AMAZON.COM/MA WA 01-28-2026,30.73,Jan,1,28,2026,Wed,Debit,1
 2026-1-28,rent,ACH Withdrawal PENNYMAC CASH Blake Daniel Dennett,639.61,Jan,1,28,2026,Wed,Debit,1
 2026-1-26,home improvement,POS Withdrawal HOBBYLOBBY  EL DORADO AR,16.43,Jan,1,26,2026,Mon,Debit,1
 2026-1-26,home improvement,Card purchase AMAZON MKTPL*2R95F8C63  Amzn.com/bill WA 01-26-2026,161.2,Jan,1,26,2026,Mon,Debit,1
