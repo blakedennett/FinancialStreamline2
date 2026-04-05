@@ -49,12 +49,13 @@ def make_categories(df):
                     # ======================= fun =======================
         .when(pl.col('description').str.contains('Amazon Prime|YouTube|ZOO|MUSEUM|AQUARIUM|LION.S CLUB GOLF|PLAYSTATION NETWORK')).then(pl.lit('fun'))
         .when(pl.col('description').str.contains('COMFORT INN|CINEMA|HOLIDAY INN|El Dorado Golf|PlayStation|ROCK GYM|GRAVITY FACTORY')).then(pl.lit('fun'))
-        .when(pl.col('description').str.contains('EXCALIBUR FAMILY FUN|AIRBNB|EXPEDIA|EL DORADO GOLF|UNITED|Prime Video|AMAZON PRIME')).then(pl.lit('fun'))
+        .when(pl.col('description').str.contains('EXCALIBUR FAMILY FUN|AIRBNB|EXPEDIA|EL DORADO GOLF|Prime Video|AMAZON PRIME')).then(pl.lit('fun'))
+        .when((pl.col('description').str.contains('UNITED')) & ~(pl.col('description').str.contains('AG AND TURF'))).then(pl.lit('fun'))
                     # ======================= power =======================
         .when(pl.col('description').str.contains('ENTERGY')).then(pl.lit('power'))
                     # ======================= car =======================
         .when(pl.col('description').str.contains('O.REILLY|MUFFLEX MUFFLER|AUTOZONE|DC TAKE 5|KARL MALONE FORD')).then(pl.lit('car'))
-        .when(pl.col('description').str.contains('VAN HOOK TIRE|IRONHEART AUTOMOTIVE')).then(pl.lit('car'))
+        .when(pl.col('description').str.contains('VAN HOOK TIRE|IRONHEART AUTOMOTIVE|AG AND TURF')).then(pl.lit('car'))
                     # ======================= progressive =======================
         .when(pl.col('description').str.contains('PROG DIRECT|STATE FARM')).then(pl.lit('progressive'))
                     # ======================= water =======================
