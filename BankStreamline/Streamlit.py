@@ -13,15 +13,14 @@ from dateutil.relativedelta import relativedelta
 st.header('Financial Data Analysis')
 
 
-# df = pd.read_csv(r'https://raw.githubusercontent.com/blakedennett/FinancialStreamline2/refs/heads/main/BankStreamline/Data/BankDataProd.csv?token=GHSAT0AAAAAADDLKTTFA5OTUWAX5YB6OCWI2AZCKEQ')
 df = pd.read_csv(r'https://raw.githubusercontent.com/blakedennett/FinancialStreamline2/refs/heads/main/BankStreamline/Data/BankDataProd.csv')
 df = pl.DataFrame(df)
 
+# ==========================================================================================
+# dates
+# ==========================================================================================
 
-df = df.with_columns(
-    pl.col("date").str.strptime(pl.Date, "%Y-%m-%d", strict=False)
-)
-
+df = df.with_columns(pl.col("date").str.strptime(pl.Date, "%Y-%m-%d", strict=False))
 
 # End date
 days_backward = time.localtime().tm_mday
@@ -36,12 +35,15 @@ StartDate = StartDate.replace(day=1).date()
 df = df.filter(pl.col("date") >= pl.date(StartDate.year, StartDate.month, StartDate.day)) \
         .filter(pl.col("date") <= pl.date(EndOfLastMonth.year, EndOfLastMonth.month, EndOfLastMonth.day))
 
-
-# ============================================================================================================
-
-
 month_order = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", 
                "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+
+
+
+# ==========================================================================================
+# Filters
+# ==========================================================================================
+
 
 df = df.sort("month")
 
@@ -53,7 +55,6 @@ if selected_category != 'All':
 else:
     f1 = df
 
-controllable = st.checkbox('Controllables only?', key=2, value=False)
 
 smooth = st.checkbox('Smooth?', key=3, value=False)
 
@@ -62,8 +63,11 @@ if smooth:
 else:
     trxn_count = 0
 
-if controllable:
-    f1 = f1.filter(pl.col('controllable') > 0)
+
+
+# ==========================================================================================
+# chart with all txns as blocks
+# ==========================================================================================
 
 fig = px.bar(f1.to_pandas(), x="monthName", y="cost", color="category", hover_data=['description', 'cardType', 'day'],
              title="Total Expense by Month",
@@ -74,19 +78,17 @@ fig = px.bar(f1.to_pandas(), x="monthName", y="cost", color="category", hover_da
              height=450,
              width=800)
 
-# this graph is shown at end of next section
-# st.plotly_chart(fig)
 
-# ============================================================================================================
 
+# ==========================================================================================
+# determining txn count or dollar count for smooth
+# ==========================================================================================
 
 if selected_category != 'All':
     f2 = df.filter(pl.col('category') == selected_category)
 else:
     f2 = df
 
-if controllable:
-    f2 = f2.filter(pl.col('controllable') > 0)
 
 if trxn_count:
     f2 = f2.group_by(["monthName", 'month']).agg(pl.count())
@@ -98,13 +100,17 @@ else:
 f2 = f2.sort("month")
 
 
+# ==========================================================================================
+# Smooth chart (txns or dollars)
+# ==========================================================================================
+
+
 fig2 = px.bar(f2.to_pandas(), x="monthName", y=y_col,
              title="Total Expense by Month",
              template='plotly_dark',
              labels={'monthName':''},
              color_discrete_sequence=['#228B22'])
-            #  category_orders={"monthName": month_order},
-            #  text_auto=True)  # This adds text labels on top of the bars
+
 
 fig2.add_trace(go.Scatter(
     x=f2["monthName"], 
@@ -136,7 +142,39 @@ if smooth:
 else:
     st.plotly_chart(fig)
 
-# st.text('Note: April 2026 returned $209 on Amazon', size=10)
 
 st.markdown("<p style='font-size:14px;'>Note: April 2026 returned $209 on Amazon</p>", unsafe_allow_html=True)
+
+
+# ==========================================================================================
+# ==========================================================================================
+# Wealth section
+# ==========================================================================================
+# ==========================================================================================
+
+st.subheader('Wealth tracking')
+
+
+wealth_df = pd.read_csv(r'https://raw.githubusercontent.com/blakedennett/FinancialStreamline2/refs/heads/main/BankStreamline/Data/WealthTracking.csv')
+wealth_df = pl.DataFrame(wealth_df)
+
+wealth_df = wealth_df.with_columns(pl.col("first_of_month").str.strptime(pl.Date, "%Y-%m-%d", strict=False)) \
+            .cast({'fiscal_month':pl.Int32})
+
+wealth_df = wealth_df.filter(pl.col("first_of_month") >= pl.date(StartDate.year, StartDate.month, StartDate.day)) \
+        .filter(pl.col("first_of_month") <= pl.date(EndOfLastMonth.year, EndOfLastMonth.month, EndOfLastMonth.day))
+
+wealth_fig = px.bar(wealth_df.to_pandas(), x="fiscal_month", y="total", 
+            #  color="category", 
+            #  hover_data=['description', 'cardType', 'day'],
+             title="Total wealth by Month",
+            #  category_orders={"monthName": month_order},
+             template='plotly_dark',
+             labels={'monthName':''},
+             text_auto=True,
+             height=600,
+             width=1000)
+
+st.plotly_chart(wealth_fig)
+
 
