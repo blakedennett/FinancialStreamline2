@@ -260,6 +260,9 @@ fig4.update_layout(height = 250, title='WMT', title_font_size=20)
 fig5.update_layout(height = 250, title='Amazon', title_font_size=20)
 fig6.update_layout(height = 250, title='Shopping', title_font_size=20)
  
+st.subheader('Note: April 2026 returned $209 on Amazon')
+
+
 st.plotly_chart(fig3)
 st.plotly_chart(fig4)
 st.plotly_chart(fig5)
