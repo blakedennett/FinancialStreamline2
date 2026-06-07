@@ -19,11 +19,12 @@ def make_categories(df):
         .when(pl.col('description').str.contains('CRCKR BRRL|OFF THE RAIL CAFE|HOUSE-WYLIE|SWOLE FOOD|FERNANDOS MEXICAN GRILL')).then(pl.lit('food'))
         .when(pl.col('description').str.contains('DC FUDDRUCKERS|THE BLACK CAT CAFE|RHEA LANA|BYUI FOOD')).then(pl.lit('food'))
         .when(pl.col('description').str.contains('WHATABURGER|CUPBOP|TASTY DONUTS|HELLA FRESH|JOHNNY B\'S GRILL')).then(pl.lit('food'))
-        .when(pl.col('description').str.contains('WILDCAT SNACK|ARBYS|SNACKS ABUELITA|MURPHY 1111')).then(pl.lit('food'))
+        .when(pl.col('description').str.contains('WILDCAT SNACK|ARBYS|SNACKS ABUELITA|MURPHY 1111|SQ *ARKANSAS WEATHER WATC')).then(pl.lit('food'))
                     # ======================= subscriptions =======================
         .when(pl.col('description').str.contains('Adobe|Spotify|Phtoshp Lightrm|Peacock|Audible')).then(pl.lit('subscriptions'))
         .when(pl.col('description').str.contains('WMT PLUS|HEALTHWORKS|APPLE.COM/BILL|SAFE HAVEN')).then(pl.lit('subscriptions'))
         .when(pl.col('description').str.contains('NETFLIX.COM|NETFLIX|Netflix|ADOBE|ADT SECURIT')).then(pl.lit('subscriptions'))
+        .when(pl.col('description').str.contains('BLINK.COM')).then(pl.lit('subscriptions'))
                     # ======================= wmt =======================
         .when(pl.col('description').str.contains('WM SUPER|Wal-Mart|WAL-MART|BROOKSHIRES|BROULIM|ALBERTSONS')).then(pl.lit('wmt'))
         .when(pl.col('description').str.contains('WALGR|SMITHS|COSTCO')).then(pl.lit('wmt'))
@@ -43,7 +44,7 @@ def make_categories(df):
         .when(pl.col('description').str.contains('T J MAXX|OLD NAVY|SHEIN|REAL DEALS|SALLY BEAUTY|REXBURG DI')).then(pl.lit('shopping'))
         .when(pl.col('description').str.contains('LDS DIST ONLINE STORE|DC ULTA|DC H&amp|SEPHORA.COM|SALONCENTRIC')).then(pl.lit('shopping'))
         .when(pl.col('description').str.contains('American Eagle|SPORTSMANS WAREHOUSE|ZOE FRYE HAIR|OLDNAVY')).then(pl.lit('shopping'))
-        .when(pl.col('description').str.contains('5230 EL DORADO')).then(pl.lit('shopping'))
+        .when(pl.col('description').str.contains('5230 EL DORADO|SP TASIA')).then(pl.lit('shopping'))
                     # ======================= amazon =======================
         .when(pl.col('description').str.contains('AMZN|AMAZON|Amazon.com|temu.com|eBay') & 
             ~pl.col('description').str.contains('AMAZON PRIME')).then(pl.lit('amazon'))
@@ -51,7 +52,7 @@ def make_categories(df):
         .when(pl.col('description').str.contains('Amazon Prime|YouTube|ZOO|MUSEUM|AQUARIUM|LION.S CLUB GOLF|PLAYSTATION NETWORK')).then(pl.lit('fun'))
         .when(pl.col('description').str.contains('COMFORT INN|CINEMA|HOLIDAY INN|El Dorado Golf|PlayStation|ROCK GYM|GRAVITY FACTORY')).then(pl.lit('fun'))
         .when(pl.col('description').str.contains('EXCALIBUR FAMILY FUN|AIRBNB|EXPEDIA|EL DORADO GOLF|Prime Video|AMAZON PRIME')).then(pl.lit('fun'))
-        .when(pl.col('description').str.contains('CENTRAL ARKANSAS LIBRA')).then(pl.lit('fun'))
+        .when(pl.col('description').str.contains('CENTRAL ARKANSAS LIBRA|WALLSTREETST2521')).then(pl.lit('fun'))
         .when((pl.col('description').str.contains('UNITED')) & ~(pl.col('description').str.contains('AG AND TURF'))).then(pl.lit('fun'))
                     # ======================= power =======================
         .when(pl.col('description').str.contains('ENTERGY')).then(pl.lit('power'))
