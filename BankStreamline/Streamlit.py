@@ -143,9 +143,6 @@ else:
     st.plotly_chart(fig)
 
 
-st.markdown("<p style='font-size:14px;'>Note: April 2026 returned $209 on Amazon</p>", unsafe_allow_html=True)
-
-
 # ==========================================================================================
 # ==========================================================================================
 # Wealth section
