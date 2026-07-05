@@ -52,7 +52,7 @@ def make_categories(df):
         .when(pl.col('description').str.contains('Amazon Prime|YouTube|ZOO|MUSEUM|AQUARIUM|LION.S CLUB GOLF|PLAYSTATION NETWORK')).then(pl.lit('fun'))
         .when(pl.col('description').str.contains('COMFORT INN|CINEMA|HOLIDAY INN|El Dorado Golf|PlayStation|ROCK GYM|GRAVITY FACTORY')).then(pl.lit('fun'))
         .when(pl.col('description').str.contains('EXCALIBUR FAMILY FUN|AIRBNB|EXPEDIA|EL DORADO GOLF|Prime Video|AMAZON PRIME')).then(pl.lit('fun'))
-        .when(pl.col('description').str.contains('CENTRAL ARKANSAS LIBRA|WALLSTREETST2521')).then(pl.lit('fun'))
+        .when(pl.col('description').str.contains('CENTRAL ARKANSAS LIBRA|WALLSTREETST2521|MYSTIC CREEK GOLF CLUB')).then(pl.lit('fun'))
         .when((pl.col('description').str.contains('UNITED')) & ~(pl.col('description').str.contains('AG AND TURF'))).then(pl.lit('fun'))
                     # ======================= power =======================
         .when(pl.col('description').str.contains('ENTERGY')).then(pl.lit('power'))
