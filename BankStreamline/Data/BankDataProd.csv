@@ -2090,7 +2090,7 @@ date,category,description,cost,monthName,month,day,year,weekDay,cardType,quarter
 2026-7-21,progressive,ACH Withdrawal STATE FARM RO 27 CPC-CLIENT BLAKE DENNETT,55.91,Jul,7,21,2026,Tue,Debit,3
 2026-7-15,rent,ACH Withdrawal PENNYMAC CASH Blake Daniel Dennett,642.23,Jul,7,15,2026,Wed,Debit,3
 2026-7-11,home improvement,POS Withdrawal NST THE HOME DEPOT 000873  EL DORADO AR,219.62,Jul,7,11,2026,Sat,Debit,3
-2026-7-8,misc,Check,3963.27,Jul,7,8,2026,Wed,Debit,3
+2026-7-8,home improvement,Check,3963.27,Jul,7,8,2026,Wed,Debit,3
 2026-7-8,misc,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,36.0,Jul,7,8,2026,Wed,Debit,3
 2026-7-7,gas,Card purchase MURPHY7520ATWALMRT  EL DORADO AR 07-07-2026,53.89,Jul,7,7,2026,Tue,Debit,3
 2026-7-7,tithing,ACH Withdrawal Ch JesusChrist DONATION BLAKE DANIEL DENNETT 2026070612045217,474.75,Jul,7,7,2026,Tue,Debit,3
