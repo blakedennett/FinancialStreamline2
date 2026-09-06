@@ -15,10 +15,11 @@ def make_categories(df):
         .when(pl.col('description').str.contains('LITTLE CAESARS|MCDON|WENDY|APPLEBEES|PERCY|TASTES ON THE FLY')).then(pl.lit('food'))
         .when(pl.col('description').str.contains('EL SUR|BAREFOOT BISTRO|YAMATO|SMOOTHIE|CREAMERY|BURGER KING')).then(pl.lit('food'))
         .when(pl.col('description').str.contains('DOLLAR GENERAL|DOLLAR TREE|FLYING BURGER|WWW.HOMECHEF.IL')).then(pl.lit('food'))
+        .when(pl.col('description').str.contains('SHREVEPORT AIRP|MAGIC MOUNTAIN FOOD|DENNY\'S|THE JUICE')).then(pl.lit('food'))
         .when(pl.col('description').str.contains('DOMINO.S|POPEYES|COCA COLA|LA VILLA MEXICAN|PJ\'S COFFEE')).then(pl.lit('food'))
         .when(pl.col('description').str.contains('CRCKR BRRL|OFF THE RAIL CAFE|HOUSE-WYLIE|SWOLE FOOD|FERNANDOS MEXICAN GRILL')).then(pl.lit('food'))
         .when(pl.col('description').str.contains('DC FUDDRUCKERS|THE BLACK CAT CAFE|RHEA LANA|TIMBERLAND MEAT')).then(pl.lit('food'))
-        .when(pl.col('description').str.contains('WHATABURGER|CUPBOP|TASTY DONUTS|HELLA FRESH|JOHNNY B\'S GRILL')).then(pl.lit('food'))
+        .when(pl.col('description').str.contains('WHATABURGER|CUPBOP|TASTY DONUTS|HELLA FRESH|JOHNNY B\'S GRILL|JUST BAKED')).then(pl.lit('food'))
         .when(pl.col('description').str.contains('WILDCAT SNACK|ARBYS|SNACKS ABUELITA|MURPHY 1111|SQ *ARKANSAS WEATHER WATC')).then(pl.lit('food'))
                     # ======================= subscriptions =======================
         .when(pl.col('description').str.contains('Adobe|Spotify|Phtoshp Lightrm|Peacock|Audible')).then(pl.lit('subscriptions'))
@@ -44,7 +45,7 @@ def make_categories(df):
         .when(pl.col('description').str.contains('T J MAXX|OLD NAVY|SHEIN|REAL DEALS|SALLY BEAUTY|REXBURG DI')).then(pl.lit('shopping'))
         .when(pl.col('description').str.contains('LDS DIST ONLINE STORE|DC ULTA|DC H&amp|SEPHORA.COM|SALONCENTRIC')).then(pl.lit('shopping'))
         .when(pl.col('description').str.contains('American Eagle|SPORTSMANS WAREHOUSE|ZOE FRYE HAIR|OLDNAVY')).then(pl.lit('shopping'))
-        .when(pl.col('description').str.contains('5230 EL DORADO|SP TASIA')).then(pl.lit('shopping'))
+        .when(pl.col('description').str.contains('5230 EL DORADO|SP TASIA|TARGET|VICTORIA\'S SECRET')).then(pl.lit('shopping'))
                     # ======================= amazon =======================
         .when(pl.col('description').str.contains('AMZN|AMAZON|Amazon.com|temu.com|eBay') & 
             ~pl.col('description').str.contains('AMAZON PRIME')).then(pl.lit('amazon'))
@@ -52,13 +53,15 @@ def make_categories(df):
         .when(pl.col('description').str.contains('Amazon Prime|YouTube|ZOO|MUSEUM|AQUARIUM|LION.S CLUB GOLF|PLAYSTATION NETWORK')).then(pl.lit('fun'))
         .when(pl.col('description').str.contains('COMFORT INN|CINEMA|HOLIDAY INN|El Dorado Golf|PlayStation|ROCK GYM|GRAVITY FACTORY')).then(pl.lit('fun'))
         .when(pl.col('description').str.contains('EXCALIBUR FAMILY FUN|AIRBNB|EXPEDIA|EL DORADO GOLF|Prime Video|AMAZON PRIME')).then(pl.lit('fun'))
-        .when(pl.col('description').str.contains('CENTRAL ARKANSAS LIBRA|WALLSTREETST2521|MYSTIC CREEK GOLF CLUB')).then(pl.lit('fun'))
+        .when(pl.col('description').str.contains('CENTRAL ARKANSAS LIBRA|WALLSTREETST2521|MYSTIC CREEK GOLF CLUB|LIME*RIDE')).then(pl.lit('fun'))
+        .when(pl.col('description').str.contains('Six Flags|JUMSIM|GCOO SCOOTER|ONCE UPON A CHILD|BIRD APP|BEST WESTERN|LIME')).then(pl.lit('fun'))
+        .when(pl.col('description').str.contains('MAGIC MOUNTAIN PARKING|CITY OF SANTA MONICA|BEST LOCKERS')).then(pl.lit('fun'))
         .when((pl.col('description').str.contains('UNITED')) & ~(pl.col('description').str.contains('AG AND TURF'))).then(pl.lit('fun'))
                     # ======================= power =======================
         .when(pl.col('description').str.contains('ENTERGY')).then(pl.lit('power'))
                     # ======================= car =======================
         .when(pl.col('description').str.contains('O.REILLY|MUFFLEX MUFFLER|AUTOZONE|DC TAKE 5|KARL MALONE FORD')).then(pl.lit('car'))
-        .when(pl.col('description').str.contains('VAN HOOK TIRE|IRONHEART AUTOMOTIVE|AG AND TURF')).then(pl.lit('car'))
+        .when(pl.col('description').str.contains('VAN HOOK TIRE|IRONHEART AUTOMOTIVE|AG AND TURF|TAKE 5')).then(pl.lit('car'))
                     # ======================= progressive =======================
         .when(pl.col('description').str.contains('PROG DIRECT|STATE FARM')).then(pl.lit('progressive'))
                     # ======================= water =======================
@@ -69,7 +72,7 @@ def make_categories(df):
                     # ======================= Natural Gas =======================
         .when(pl.col('description').str.contains('SUMMIT')).then(pl.lit('natural gas'))
                     # ======================= Home improvement =======================
-        .when(pl.col('description').str.contains('SHERWIN-WILLIAMS|THE HOME DEPOT|MAIN STREET ANTIQUES')).then(pl.lit('home improvement'))
+        .when(pl.col('description').str.contains('SHERWIN-WILLIAMS|THE HOME DEPOT|MAIN STREET ANTIQUES|GLENN MECHANICAL')).then(pl.lit('home improvement'))
         .when(pl.col('description').str.contains('HOBBYLOBBY|EVERYBODYS ANTIQUE|HOBBY-LOBBY|MAIN STREET ANTIQUE')).then(pl.lit('home improvement'))
         .when(pl.col('description').str.contains('TIMMINS|Sherwin-Williams|WAYFAIR|HOMEDEPOT|KEN\'S DISCOUNT|Ken\'s Discount')).then(pl.lit('home improvement'))
                     # ======================= rent =======================

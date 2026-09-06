@@ -2179,3 +2179,96 @@ date,category,description,cost,monthName,month,day,year,weekDay,cardType,quarter
 2026-7-1,wmt,WALMART.COM              800-925-6278 AR,86.95,Jul,7,1,2026,Wed,Credit,3
 2026-7-1,wmt,WALMART.COM              800-925-6278 AR,59.97,Jul,7,1,2026,Wed,Credit,3
 2026-7-1,wmt,WALMART.COM 8009256278   BENTONVILLE  AR,1.0,Jul,7,1,2026,Wed,Credit,3
+2026-8-26,rent,ACH Withdrawal PENNYMAC CASH Blake Daniel Dennett,642.23,Aug,8,26,2026,Wed,Debit,3
+2026-8-24,power,ACH Withdrawal ENTERGY ARKANSAS BANK DRAFT BLAKE DENNETT DIRECT DEBITING,72.71,Aug,8,24,2026,Mon,Debit,3
+2026-8-22,home improvement,Card purchase THE HOME DEPOT #8537  800-466-3337 AR 08-21-2026,35.78,Aug,8,22,2026,Sat,Debit,3
+2026-8-19,progressive,ACH Withdrawal STATE FARM RO 27 CPC-CLIENT BLAKE DENNETT,55.91,Aug,8,19,2026,Wed,Debit,3
+2026-8-17,food,Card purchase TST*SOLE LIFE  El Dorado AR 08-17-2026,7.17,Aug,8,17,2026,Mon,Debit,3
+2026-8-17,gas,Card purchase MURPHY7520ATWALMRT  EL DORADO AR 08-17-2026,53.23,Aug,8,17,2026,Mon,Debit,3
+2026-8-17,wmt,POS Withdrawal WAL WAL-MART #0530 722651  EL DORADO AR,20.0,Aug,8,17,2026,Mon,Debit,3
+2026-8-17,misc,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,19.0,Aug,8,17,2026,Mon,Debit,3
+2026-8-15,home improvement,Card purchase GLENN MECHANICAL CO INC  8708625901 AR 08-15-2026,142.4,Aug,8,15,2026,Sat,Debit,3
+2026-8-15,food,Card purchase 99496 - SHREVEPORT AIRP  SHREVEPORT LA 08-14-2026,174.54,Aug,8,15,2026,Sat,Debit,3
+2026-8-15,car,Card purchase TAKE 5 #777  EL DORADO AR 08-14-2026,158.01,Aug,8,15,2026,Sat,Debit,3
+2026-8-13,misc,Card purchase LAS VEGAS TEMPLE  LAS VEGAS NV 08-12-2026,12.0,Aug,8,13,2026,Thu,Debit,3
+2026-8-12,rent,ACH Withdrawal PENNYMAC CASH Blake Daniel Dennett,642.23,Aug,8,12,2026,Wed,Debit,3
+2026-8-9,wmt,Credit or debit card Withdrawal WAL-MART #3220 ST GEORGE UT  XXXXXXXXXXXX0071,95.95,Aug,8,9,2026,Sun,Debit,3
+2026-8-8,wmt,POS Withdrawal WAL WAL-MART #3220 000904  ST GEORGE UT,95.95,Aug,8,8,2026,Sat,Debit,3
+2026-8-7,fun,Card purchase LIME*RIDE  LI.ME CA 08-07-2026,4.48,Aug,8,7,2026,Fri,Debit,3
+2026-8-7,fun,Card purchase ONCE UPON A CHILD 2118  HENDERSON NV 08-06-2026,15.17,Aug,8,7,2026,Fri,Debit,3
+2026-8-6,fun,Card purchase BEST WESTERN PLUS CARRI  SHERMAN OAKS CA 08-05-2026,190.67,Aug,8,6,2026,Thu,Debit,3
+2026-8-6,misc,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,7.0,Aug,8,6,2026,Thu,Debit,3
+2026-8-6,fun,Card purchase JUMSIM  LOS ANGELES CA 08-05-2026,33.0,Aug,8,6,2026,Thu,Debit,3
+2026-8-6,gas,Card purchase CHEVRON 0205671  PALMDALE CA 08-06-2026,56.31,Aug,8,6,2026,Thu,Debit,3
+2026-8-5,fun,"Bill payment Withdrawal GCOO SCOOTER RIDE  GCOO.IO, CA",0.8,Aug,8,5,2026,Wed,Debit,3
+2026-8-5,fun,"Bill payment Withdrawal GCOO SCOOTER RIDE  GCOO.IO, CA",5.0,Aug,8,5,2026,Wed,Debit,3
+2026-8-5,misc,POS Withdrawal CSI-205671/1854-  PALMDALE CA,1.74,Aug,8,5,2026,Wed,Debit,3
+2026-8-5,fun,Card purchase BIRD APP* PENDING.BIRD  BIRD.CO FL 08-05-2026,10.0,Aug,8,5,2026,Wed,Debit,3
+2026-8-5,fun,Card purchase BIRD APP* PENDING.BIRD  BIRD.CO FL 08-05-2026,5.0,Aug,8,5,2026,Wed,Debit,3
+2026-8-5,fun,Card purchase BIRD APP* PENDING.BIRD  BIRD.CO FL 08-05-2026,5.0,Aug,8,5,2026,Wed,Debit,3
+2026-8-5,fun,Card purchase BIRD APP* PENDING.BIRD  BIRD.CO FL 08-05-2026,10.0,Aug,8,5,2026,Wed,Debit,3
+2026-8-5,food,Card purchase MAGIC MOUNTAIN FOOD  VALENCIA CA 08-04-2026,10.42,Aug,8,5,2026,Wed,Debit,3
+2026-8-5,subscriptions,Card purchase Spotify P455588B93  New York NY 08-05-2026,12.99,Aug,8,5,2026,Wed,Debit,3
+2026-8-4,fun,Card purchase AMZ*g6t2ajbub Six Flags  Valencia CA 08-04-2026,12.6,Aug,8,4,2026,Tue,Debit,3
+2026-8-3,water,"ACH Withdrawal EL DORADO WATER UMS BILL DENNETT, BLAKE",85.74,Aug,8,3,2026,Mon,Debit,3
+2026-8-30,fun,AMAZON PRIME*XB63L4ZG3   Amzn.com/billWA,8.26,Aug,8,30,2026,Sun,Credit,3
+2026-8-30,wmt,WAL-MART #0530           EL DORADO    AR,39.13,Aug,8,30,2026,Sun,Credit,3
+2026-8-30,wmt,WALMART.COM              800-925-6278 AR,1.0,Aug,8,30,2026,Sun,Credit,3
+2026-8-28,food,JUST BAKED               SARASOTA     FL,4.4,Aug,8,28,2026,Fri,Credit,3
+2026-8-28,wmt,WAL-MART #0530           EL DORADO    AR,57.35,Aug,8,28,2026,Fri,Credit,3
+2026-8-28,wmt,WALMART.COM              800-925-6278 AR,1.0,Aug,8,28,2026,Fri,Credit,3
+2026-8-27,food,JUST BAKED               SARASOTA     FL,5.28,Aug,8,27,2026,Thu,Credit,3
+2026-8-27,wmt,WM SUPERCENTER #530      870-862-2128 AR,19.08,Aug,8,27,2026,Thu,Credit,3
+2026-8-27,wmt,WALMART.COM 8009256278   800-966-6546 AR,3.92,Aug,8,27,2026,Thu,Credit,3
+2026-8-27,wmt,WALMART.COM              800-925-6278 AR,44.19,Aug,8,27,2026,Thu,Credit,3
+2026-8-26,subscriptions,NETFLIX.COM              NETFLIX.COM  CA,9.91,Aug,8,26,2026,Wed,Credit,3
+2026-8-26,wmt,WAL-MART #0530           EL DORADO    AR,19.34,Aug,8,26,2026,Wed,Credit,3
+2026-8-26,food,MURPHY 1111              EL DORADO    AR,5.5,Aug,8,26,2026,Wed,Credit,3
+2026-8-26,food,MURPHY 1111              EL DORADO    AR,2.48,Aug,8,26,2026,Wed,Credit,3
+2026-8-25,wmt,WALMART.COM 8009256278   800-966-6546 AR,38.49,Aug,8,25,2026,Tue,Credit,3
+2026-8-25,food,MURPHY 1111              EL DORADO    AR,5.5,Aug,8,25,2026,Tue,Credit,3
+2026-8-25,wmt,WAL-MART #0530           EL DORADO    AR,31.04,Aug,8,25,2026,Tue,Credit,3
+2026-8-25,wmt,WALMART.COM              800-925-6278 AR,2.5,Aug,8,25,2026,Tue,Credit,3
+2026-8-25,wmt,WALMART.COM              800-925-6278 AR,63.85,Aug,8,25,2026,Tue,Credit,3
+2026-8-25,internet,VISIBLE                  866-331-3527 CO,19.0,Aug,8,25,2026,Tue,Credit,3
+2026-8-23,amazon,AMAZON MKTPL*5O3ZK6NT0   Amzn.com/billWA,17.0,Aug,8,23,2026,Sun,Credit,3
+2026-8-23,amazon,AMAZON MKTPL*5A6I73I62   Amzn.com/billWA,11.01,Aug,8,23,2026,Sun,Credit,3
+2026-8-23,wmt,WALMART.COM 8009256278   800-966-6546 AR,0.89,Aug,8,23,2026,Sun,Credit,3
+2026-8-23,wmt,WALMART.COM 8009256278   800-966-6546 AR,7.22,Aug,8,23,2026,Sun,Credit,3
+2026-8-23,wmt,WALMART.COM 8009256278   800-966-6546 AR,3.61,Aug,8,23,2026,Sun,Credit,3
+2026-8-23,wmt,WALMART.COM 8009256278   800-966-6546 AR,3.61,Aug,8,23,2026,Sun,Credit,3
+2026-8-23,wmt,WALMART.COM              800-925-6278 AR,105.4,Aug,8,23,2026,Sun,Credit,3
+2026-8-23,wmt,WALMART.COM              800-925-6278 AR,65.17,Aug,8,23,2026,Sun,Credit,3
+2026-8-23,wmt,WALMART.COM 8009256278   800-966-6546 AR,36.48,Aug,8,23,2026,Sun,Credit,3
+2026-8-21,subscriptions,Audible*3O9Y72923        Amzn.com/billNJ,9.91,Aug,8,21,2026,Fri,Credit,3
+2026-8-21,food,JUST BAKED               SARASOTA     FL,4.4,Aug,8,21,2026,Fri,Credit,3
+2026-8-21,food,MURPHY 1111              EL DORADO    AR,2.89,Aug,8,21,2026,Fri,Credit,3
+2026-8-21,food,SONIC DRIVE IN #1948     870-863-9491 AR,6.38,Aug,8,21,2026,Fri,Credit,3
+2026-8-20,food,MURPHY 1111              EL DORADO    AR,1.75,Aug,8,20,2026,Thu,Credit,3
+2026-8-19,food,JUST BAKED               SARASOTA     FL,5.28,Aug,8,19,2026,Wed,Credit,3
+2026-8-18,amazon,AMAZON RETA* 5A1TK9JC2   WWW.AMAZON.COWA,14.31,Aug,8,18,2026,Tue,Credit,3
+2026-8-18,wmt,WM SUPERCENTER #530      870-862-2128 AR,13.88,Aug,8,18,2026,Tue,Credit,3
+2026-8-18,food,MURPHY 1111              EL DORADO    AR,4.4,Aug,8,18,2026,Tue,Credit,3
+2026-8-16,subscriptions,Audible*5H0T75Y30        Amzn.com/billNJ,8.92,Aug,8,16,2026,Sun,Credit,3
+2026-8-14,internet,PY *TCW                  501-3299144  AR,40.0,Aug,8,14,2026,Fri,Credit,3
+2026-8-9,wmt,WM SUPERCENTER #3220     ST GEORGE    UT,8.51,Aug,8,9,2026,Sun,Credit,3
+2026-8-7,shopping,VICTORIA'S SECRET #1275  SANTA MONICA CA,52.0,Aug,8,7,2026,Fri,Credit,3
+2026-8-7,fun,CITY OF SANTA MONICA     SANTA MONICA CA,3.25,Aug,8,7,2026,Fri,Credit,3
+2026-8-7,food,DENNY'S #7213            SHERMAN OAKS CA,43.35,Aug,8,7,2026,Fri,Credit,3
+2026-8-6,fun,BIRD APP* PENDING.BIRD   BIRD.CO      FL,6.02,Aug,8,6,2026,Thu,Credit,3
+2026-8-6,fun,BIRD APP* PENDING.BIRD   BIRD.CO      FL,7.87,Aug,8,6,2026,Thu,Credit,3
+2026-8-6,fun,BIRD APP* PENDING.BIRD   BIRD.CO      FL,10.33,Aug,8,6,2026,Thu,Credit,3
+2026-8-6,shopping,TARGET T-1307            VAN NUYS     CA,3.69,Aug,8,6,2026,Thu,Credit,3
+2026-8-6,fun,GCOO SCOOTER RIDE        GCOO.IO      CA,5.0,Aug,8,6,2026,Thu,Credit,3
+2026-8-6,fun,GCOO SCOOTER RIDE        GCOO.IO      CA,0.8,Aug,8,6,2026,Thu,Credit,3
+2026-8-6,fun,LIME*RIDE                LI.ME        CA,4.48,Aug,8,6,2026,Thu,Credit,3
+2026-8-6,food,THE JUICE GRAND CENTRA   165-06819470 CA,12.0,Aug,8,6,2026,Thu,Credit,3
+2026-8-6,food,DENNY'S #7213            SHERMAN OAKS CA,30.0,Aug,8,6,2026,Thu,Credit,3
+2026-8-6,fun,MAGIC MOUNTAIN PARKING   VALENCIA     CA,40.0,Aug,8,6,2026,Thu,Credit,3
+2026-8-6,food,MAGIC MOUNTAIN FOOD      VALENCIA     CA,10.4,Aug,8,6,2026,Thu,Credit,3
+2026-8-6,fun,BEST LOCKERS-SFMMDP      VALENCIA     CA,15.0,Aug,8,6,2026,Thu,Credit,3
+2026-8-5,gas,CHEVRON 0099879          BAKER        CA,6.44,Aug,8,5,2026,Wed,Credit,3
+2026-8-4,amazon,AMAZON MKTPL*5N5V50W10   Amzn.com/billWA,27.08,Aug,8,4,2026,Tue,Credit,3
+2026-8-3,subscriptions,APPLE.COM/BILL           866-712-7753 CA,119.99,Aug,8,3,2026,Mon,Credit,3
+2026-8-3,fun,Six Flags MM             661-255-4100 CA,148.41,Aug,8,3,2026,Mon,Credit,3
+2026-8-2,wmt,WM SUPERCENTER #2050     HENDERSON    NV,28.45,Aug,8,2,2026,Sun,Credit,3
