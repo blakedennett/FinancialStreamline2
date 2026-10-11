@@ -11,7 +11,6 @@ from dateutil.relativedelta import relativedelta
 
 
 st.header('Financial Data Analysis')
-st.header('NOTE: NEED to pull end of AUG tithing into august - may have shown up in SEPT')
 
 
 df = pd.read_csv(r'https://raw.githubusercontent.com/blakedennett/FinancialStreamline2/refs/heads/main/BankStreamline/Data/BankDataProd.csv')
