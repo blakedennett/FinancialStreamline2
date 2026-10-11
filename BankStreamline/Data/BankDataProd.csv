@@ -2269,6 +2269,99 @@ date,category,description,cost,monthName,month,day,year,weekDay,cardType,quarter
 2026-8-6,fun,BEST LOCKERS-SFMMDP      VALENCIA     CA,15.0,Aug,8,6,2026,Thu,Credit,3
 2026-8-5,gas,CHEVRON 0099879          BAKER        CA,6.44,Aug,8,5,2026,Wed,Credit,3
 2026-8-4,amazon,AMAZON MKTPL*5N5V50W10   Amzn.com/billWA,27.08,Aug,8,4,2026,Tue,Credit,3
-2026-8-3,subscriptions,APPLE.COM/BILL           866-712-7753 CA,119.99,Aug,8,3,2026,Mon,Credit,3
+2026-8-3,fun,APPLE.COM/BILL           866-712-7753 CA,119.99,Aug,8,3,2026,Mon,Credit,3
 2026-8-3,fun,Six Flags MM             661-255-4100 CA,148.41,Aug,8,3,2026,Mon,Credit,3
 2026-8-2,wmt,WM SUPERCENTER #2050     HENDERSON    NV,28.45,Aug,8,2,2026,Sun,Credit,3
+2026-8-30,natural gas,ACH Withdrawal SUMMIT SUA BILLPAY BLAKE DENNETT BILLPAY,105.0,Aug,8,20,2026,Tue,Debit,3
+2026-9-24,power,ACH Withdrawal ENTERGY ARKANSAS BANK DRAFT BLAKE DENNETT DIRECT DEBITING,210.11,Sep,9,24,2026,Thu,Debit,3
+2026-9-23,rent,ACH Withdrawal PENNYMAC CASH Blake Daniel Dennett,642.23,Sep,9,23,2026,Wed,Debit,3
+2026-9-21,misc,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,10.0,Sep,9,21,2026,Mon,Debit,3
+2026-9-21,progressive,ACH Withdrawal STATE FARM RO 27 CPC-CLIENT BLAKE DENNETT,55.91,Sep,9,21,2026,Mon,Debit,3
+2026-9-16,misc,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,36.0,Sep,9,16,2026,Wed,Debit,3
+2026-9-14,misc,Card purchase FLOHEALTH.COM  FLOHEALTH.COM DE 09-14-2026,59.99,Sep,9,14,2026,Mon,Debit,3
+2026-9-11,wmt,POS Withdrawal WM SUPERCENTER #530  EL DORADO AR,45.95,Sep,9,11,2026,Fri,Debit,3
+2026-9-9,misc,ACH Withdrawal BEEHIVE FCU ACCTVERIFY ADANYA DENNETT,0.28,Sep,9,9,2026,Wed,Debit,3
+2026-9-9,misc,ACH Withdrawal BEEHIVE FCU ACCTVERIFY ADANYA DENNETT,0.86,Sep,9,9,2026,Wed,Debit,3
+2026-9-9,tithing,ACH Withdrawal Ch JesusChrist DONATION BLAKE DANIEL DENNETT 202609081206231,704.4,Sep,9,9,2026,Wed,Debit,3
+2026-9-9,rent,ACH Withdrawal PENNYMAC CASH Blake Daniel Dennett,642.23,Sep,9,9,2026,Wed,Debit,3
+2026-9-5,subscriptions,Card purchase Spotify P46801FBEB  New York NY 09-05-2026,12.99,Sep,9,5,2026,Sat,Debit,3
+2026-9-1,natural gas,ACH Withdrawal SUMMIT SUA BILLPAY BLAKE DENNETT BILLPAY,117.0,Sep,9,1,2026,Tue,Debit,3
+2026-9-1,water,"ACH Withdrawal EL DORADO WATER UMS BILL DENNETT, BLAKE",124.47,Sep,9,1,2026,Tue,Debit,3
+2026-9-1,tithing,ACH Withdrawal Ch JesusChrist DONATION BLAKE DANIEL DENNETT 202608311207310,1050.61,Sep,9,1,2026,Tue,Debit,3
+2026-9-1,tithing,ACH Withdrawal Ch JesusChrist DONATION BLAKE DANIEL DENNETT 202608311207310,171.35,Sep,9,1,2026,Tue,Debit,3
+2026-9-30,home improvement,SHERWIN-WILLIAMS707335   El Dorado    AR,2.28,Sep,9,30,2026,Wed,Credit,3
+2026-9-30,food,TST*SWOLE FOOD HEALTHWOR El Dorado    AR,11.03,Sep,9,30,2026,Wed,Credit,3
+2026-9-30,food,MURPHY 1111              EL DORADO    AR,4.4,Sep,9,30,2026,Wed,Credit,3
+2026-9-29,home improvement,SHERWIN-WILLIAMS707335   El Dorado    AR,39.05,Sep,9,29,2026,Tue,Credit,3
+2026-9-29,food,TST*SWOLE FOOD HEALTHWOR El Dorado    AR,10.37,Sep,9,29,2026,Tue,Credit,3
+2026-9-29,fun,AMAZON PRIME*XD4BS6JU3   Amzn.com/billWA,8.26,Sep,9,29,2026,Tue,Credit,3
+2026-9-29,wmt,WAL-MART #0530           EL DORADO    AR,84.55,Sep,9,29,2026,Tue,Credit,3
+2026-9-29,food,MURPHY 1111              EL DORADO    AR,3.3,Sep,9,29,2026,Tue,Credit,3
+2026-9-27,subscriptions,Netflix.com              netflix.com  CA,9.91,Sep,9,27,2026,Sun,Credit,3
+2026-9-27,food,JUST BAKED               SARASOTA     FL,6.93,Sep,9,27,2026,Sun,Credit,3
+2026-9-27,wmt,BROOKSHIRES 40           EL DORADO    AR,29.02,Sep,9,27,2026,Sun,Credit,3
+2026-9-25,internet,VISIBLE                  866-331-3527 CO,19.0,Sep,9,25,2026,Fri,Credit,3
+2026-9-23,food,POPEYES 3652             EL DORADO    AR,18.71,Sep,9,23,2026,Wed,Credit,3
+2026-9-22,food,MURPHY 1111              EL DORADO    AR,4.34,Sep,9,22,2026,Tue,Credit,3
+2026-9-21,subscriptions,Audible*IQ9R676R3        Amzn.com/billNJ,9.91,Sep,9,21,2026,Mon,Credit,3
+2026-9-20,wmt,WAL-MART #0530           EL DORADO    AR,128.99,Sep,9,20,2026,Sun,Credit,3
+2026-9-20,misc,SOUTH ARKANSAS REGIONAL HEL DORADO    AR,6.99,Sep,9,20,2026,Sun,Credit,3
+2026-9-20,wmt,WAL-MART #0530           EL DORADO    AR,10.17,Sep,9,20,2026,Sun,Credit,3
+2026-9-20,wmt,WAL-MART #0530           EL DORADO    AR,11.8,Sep,9,20,2026,Sun,Credit,3
+2026-9-20,wmt,WALMART.COM              800-925-6278 AR,56.62,Sep,9,20,2026,Sun,Credit,3
+2026-9-20,wmt,WALMART.COM 8009256278   BENTONVILLE  AR,1.0,Sep,9,20,2026,Sun,Credit,3
+2026-9-18,food,JUST BAKED               SARASOTA     FL,4.4,Sep,9,18,2026,Fri,Credit,3
+2026-9-18,food,TST*SWOLE FOOD HEALTHWOR El Dorado    AR,11.03,Sep,9,18,2026,Fri,Credit,3
+2026-9-18,wmt,WALMART.COM 8009256278   800-966-6546 AR,42.44,Sep,9,18,2026,Fri,Credit,3
+2026-9-17,food,JUST BAKED               SARASOTA     FL,5.5,Sep,9,17,2026,Thu,Credit,3
+2026-9-16,food,MURPHY 1111              EL DORADO    AR,4.4,Sep,9,16,2026,Wed,Credit,3
+2026-9-15,wmt,WALMART.COM 8009256278   800-966-6546 AR,1.45,Sep,9,15,2026,Tue,Credit,3
+2026-9-15,wmt,WALMART.COM 8009256278   800-966-6546 AR,59.53,Sep,9,15,2026,Tue,Credit,3
+2026-9-15,home improvement,TIMMINS HDWE             EL DORADO    AR,12.12,Sep,9,15,2026,Tue,Credit,3
+2026-9-15,wmt,WALMART.COM              800-925-6278 AR,8.0,Sep,9,15,2026,Tue,Credit,3
+2026-9-15,wmt,WALMART.COM              800-925-6278 AR,26.35,Sep,9,15,2026,Tue,Credit,3
+2026-9-14,amazon,AMAZON MKTPL*5L72A2H80   Amzn.com/billWA,20.89,Sep,9,14,2026,Mon,Credit,3
+2026-9-14,amazon,AMAZON MKTPL*5L99L25M2   Amzn.com/billWA,11.01,Sep,9,14,2026,Mon,Credit,3
+2026-9-14,internet,PY *TCW                  501-3299144  AR,40.0,Sep,9,14,2026,Mon,Credit,3
+2026-9-14,amazon,AMAZON RETA* 5L75V6X42   WWW.AMAZON.COWA,40.25,Sep,9,14,2026,Mon,Credit,3
+2026-9-13,amazon,AMAZON RETA* 5L7LG3U21   WWW.AMAZON.COWA,71.19,Sep,9,13,2026,Sun,Credit,3
+2026-9-13,food,TST*SWOLE FOOD HEALTHWOR El Dorado    AR,11.03,Sep,9,13,2026,Sun,Credit,3
+2026-9-13,amazon,AMAZON MKTPL*5L21G6281   Amzn.com/billWA,24.02,Sep,9,13,2026,Sun,Credit,3
+2026-9-13,amazon,AMAZON MKTPL*5L0OK92E1   Amzn.com/billWA,6.93,Sep,9,13,2026,Sun,Credit,3
+2026-9-13,food,UEP*YAMATO SUSHI & STEAK EL DORADO    AR,23.35,Sep,9,13,2026,Sun,Credit,3
+2026-9-13,wmt,WAL-MART #0530           EL DORADO    AR,16.75,Sep,9,13,2026,Sun,Credit,3
+2026-9-13,wmt,WAL-MART #0530           EL DORADO    AR,12.96,Sep,9,13,2026,Sun,Credit,3
+2026-9-13,fun,LION'S CLUB GOLF COURSE  EL DORADO    AR,9.0,Sep,9,13,2026,Sun,Credit,3
+2026-9-13,food,JUST BAKED               SARASOTA     FL,4.4,Sep,9,13,2026,Sun,Credit,3
+2026-9-11,food,JUST BAKED               SARASOTA     FL,4.4,Sep,9,11,2026,Fri,Credit,3
+2026-9-11,food,MURPHY 1111              EL DORADO    AR,4.4,Sep,9,11,2026,Fri,Credit,3
+2026-9-11,wmt,WALMART.COM 8009256278   800-966-6546 AR,117.74,Sep,9,11,2026,Fri,Credit,3
+2026-9-10,amazon,AMAZON MKTPL*532CF47W0   Amzn.com/billWA,11.01,Sep,9,10,2026,Thu,Credit,3
+2026-9-10,wmt,WAL-MART #0530           EL DORADO    AR,23.75,Sep,9,10,2026,Thu,Credit,3
+2026-9-10,food,MURPHY 1111              EL DORADO    AR,3.1,Sep,9,10,2026,Thu,Credit,3
+2026-9-10,food,MURPHY 1111              EL DORADO    AR,2.86,Sep,9,10,2026,Thu,Credit,3
+2026-9-9,food,MURPHY 1111              EL DORADO    AR,5.5,Sep,9,9,2026,Wed,Credit,3
+2026-9-8,food,DAIRY QUEEN #44677       EL DORADO    AR,21.59,Sep,9,8,2026,Tue,Credit,3
+2026-9-8,food,DAIRY QUEEN #44677       EL DORADO    AR,9.64,Sep,9,8,2026,Tue,Credit,3
+2026-9-6,wmt,WALMART.COM              800-925-6278 AR,1.0,Sep,9,6,2026,Sun,Credit,3
+2026-9-6,wmt,WALMART.COM              800-925-6278 AR,61.83,Sep,9,6,2026,Sun,Credit,3
+2026-9-6,food,TST*SWOLE FOOD HEALTHWOR El Dorado    AR,20.94,Sep,9,6,2026,Sun,Credit,3
+2026-9-6,misc,SQ *HOLY REDEEMER CATHOLIEl Dorado    AR,5.0,Sep,9,6,2026,Sun,Credit,3
+2026-9-6,gas,MURPHY7520ATWALMRT       EL DORADO    AR,36.98,Sep,9,6,2026,Sun,Credit,3
+2026-9-4,amazon,AMAZON DIGI* 5Q95F9Y70   WWW.AMAZON.COWA,4.4,Sep,9,4,2026,Fri,Credit,3
+2026-9-4,wmt,WALMART.COM              800-925-6278 AR,9.91,Sep,9,4,2026,Fri,Credit,3
+2026-9-4,wmt,WALMART.COM 8009256278   800-966-6546 AR,63.31,Sep,9,4,2026,Fri,Credit,3
+2026-9-3,wmt,WM SUPERCENTER #530      870-862-2128 AR,32.64,Sep,9,3,2026,Thu,Credit,3
+2026-9-3,food,MURPHY 1111              EL DORADO    AR,3.1,Sep,9,3,2026,Thu,Credit,3
+2026-9-3,food,MURPHY 1111              EL DORADO    AR,2.86,Sep,9,3,2026,Thu,Credit,3
+2026-9-3,amazon,AMAZON RETA* 5Q8R33SC2   WWW.AMAZON.COWA,19.4,Sep,9,3,2026,Thu,Credit,3
+2026-9-2,amazon,AMAZON MKTPL*5Q2D57820   Amzn.com/billWA,14.95,Sep,9,2,2026,Wed,Credit,3
+2026-9-2,food,MURPHY 1111              EL DORADO    AR,3.3,Sep,9,2,2026,Wed,Credit,3
+2026-9-2,food,MURPHY 1111              EL DORADO    AR,1.75,Sep,9,2,2026,Wed,Credit,3
+2026-9-1,food,JUST BAKED               SARASOTA     FL,4.4,Sep,9,1,2026,Tue,Credit,3
+2026-9-1,wmt,WALMART.COM              800-925-6278 AR,4.0,Sep,9,1,2026,Tue,Credit,3
+2026-9-1,wmt,WALMART.COM              800-925-6278 AR,4.34,Sep,9,1,2026,Tue,Credit,3
+2026-9-1,wmt,WALMART.COM              800-925-6278 AR,0.09,Sep,9,1,2026,Tue,Credit,3
+2026-9-1,wmt,WALMART.COM              800-925-6278 AR,108.8,Sep,9,1,2026,Tue,Credit,3
+2026-9-1,wmt,WALMART.COM              800-925-6278 AR,2.05,Sep,9,1,2026,Tue,Credit,3
+2026-9-1,wmt,WALMART.COM              800-925-6278 AR,1.0,Sep,9,1,2026,Tue,Credit,3
