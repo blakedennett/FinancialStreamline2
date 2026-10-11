@@ -2272,7 +2272,7 @@ date,category,description,cost,monthName,month,day,year,weekDay,cardType,quarter
 2026-8-3,fun,APPLE.COM/BILL           866-712-7753 CA,119.99,Aug,8,3,2026,Mon,Credit,3
 2026-8-3,fun,Six Flags MM             661-255-4100 CA,148.41,Aug,8,3,2026,Mon,Credit,3
 2026-8-2,wmt,WM SUPERCENTER #2050     HENDERSON    NV,28.45,Aug,8,2,2026,Sun,Credit,3
-2026-8-30,natural gas,ACH Withdrawal SUMMIT SUA BILLPAY BLAKE DENNETT BILLPAY,105.0,Aug,8,20,2026,Tue,Debit,3
+2026-8-30,natural gas,ACH Withdrawal SUMMIT SUA BILLPAY BLAKE DENNETT BILLPAY,105.0,Aug,8,30,2026,Tue,Debit,3
 2026-9-24,power,ACH Withdrawal ENTERGY ARKANSAS BANK DRAFT BLAKE DENNETT DIRECT DEBITING,210.11,Sep,9,24,2026,Thu,Debit,3
 2026-9-23,rent,ACH Withdrawal PENNYMAC CASH Blake Daniel Dennett,642.23,Sep,9,23,2026,Wed,Debit,3
 2026-9-21,misc,ACH Withdrawal VENMO PAYMENT ADANYA AND BLAKE DENNE,10.0,Sep,9,21,2026,Mon,Debit,3
@@ -2287,8 +2287,8 @@ date,category,description,cost,monthName,month,day,year,weekDay,cardType,quarter
 2026-9-5,subscriptions,Card purchase Spotify P46801FBEB  New York NY 09-05-2026,12.99,Sep,9,5,2026,Sat,Debit,3
 2026-9-1,natural gas,ACH Withdrawal SUMMIT SUA BILLPAY BLAKE DENNETT BILLPAY,117.0,Sep,9,1,2026,Tue,Debit,3
 2026-9-1,water,"ACH Withdrawal EL DORADO WATER UMS BILL DENNETT, BLAKE",124.47,Sep,9,1,2026,Tue,Debit,3
-2026-9-1,tithing,ACH Withdrawal Ch JesusChrist DONATION BLAKE DANIEL DENNETT 202608311207310,1050.61,Sep,9,1,2026,Tue,Debit,3
-2026-9-1,tithing,ACH Withdrawal Ch JesusChrist DONATION BLAKE DANIEL DENNETT 202608311207310,171.35,Sep,9,1,2026,Tue,Debit,3
+2026-8-1,tithing,ACH Withdrawal Ch JesusChrist DONATION BLAKE DANIEL DENNETT 202608311207310,1050.61,Aug,8,1,2026,Tue,Debit,3
+2026-8-1,tithing,ACH Withdrawal Ch JesusChrist DONATION BLAKE DANIEL DENNETT 202608311207310,171.35,Aug,8,1,2026,Tue,Debit,3
 2026-9-30,home improvement,SHERWIN-WILLIAMS707335   El Dorado    AR,2.28,Sep,9,30,2026,Wed,Credit,3
 2026-9-30,food,TST*SWOLE FOOD HEALTHWOR El Dorado    AR,11.03,Sep,9,30,2026,Wed,Credit,3
 2026-9-30,food,MURPHY 1111              EL DORADO    AR,4.4,Sep,9,30,2026,Wed,Credit,3
