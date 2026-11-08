@@ -2391,7 +2391,7 @@ date,category,description,cost,monthName,month,day,year,weekDay,cardType,quarter
 2026-10-28,wmt,WM SUPERCENTER #530      EL DORADO    AR,19.94,Oct,10,28,2026,Wed,Credit,4
 2026-10-28,shopping,T J MAXX #1330           EL DORADO    AR,33.03,Oct,10,28,2026,Wed,Credit,4
 2026-10-28,wmt,WALMART200015577451375   800-925-6278 AR,124.21,Oct,10,28,2026,Wed,Credit,4
-2026-10-27,fun,RAINBOW FOOD MART        EL DORADO    AR,43.48,Oct,10,27,2026,Tue,Credit,4
+2026-10-27,gas,RAINBOW FOOD MART        EL DORADO    AR,43.48,Oct,10,27,2026,Tue,Credit,4
 2026-10-27,food,MURPHY 1111              EL DORADO    AR,4.4,Oct,10,27,2026,Tue,Credit,4
 2026-10-27,wmt,WALMART200015256237979   800-925-6278 AR,1.0,Oct,10,27,2026,Tue,Credit,4
 2026-10-26,subscriptions,Netflix.com              netflix.com  CA,9.91,Oct,10,26,2026,Mon,Credit,4
@@ -2436,7 +2436,6 @@ date,category,description,cost,monthName,month,day,year,weekDay,cardType,quarter
 2026-10-8,wmt,WALMART.COM              800-925-6278 AR,5.44,Oct,10,8,2026,Thu,Credit,4
 2026-10-8,amazon,AMAZON RETA* 5E6NM4Z91   WWW.AMAZON.COWA,17.36,Oct,10,8,2026,Thu,Credit,4
 2026-10-7,amazon,AMAZON MKTPL*591IE61E0   Amzn.com/billWA,14.11,Oct,10,7,2026,Wed,Credit,4
-2026-10-7,fun,LES MILLS UNITED STATES T184-453-7645 IL,197.56,Oct,10,7,2026,Wed,Credit,4
 2026-10-7,wmt,WAL-MART #0530           EL DORADO    AR,56.46,Oct,10,7,2026,Wed,Credit,4
 2026-10-7,wmt,WALMART.COM              800-925-6278 AR,42.86,Oct,10,7,2026,Wed,Credit,4
 2026-10-6,amazon,AMAZON MKTPL*517IN96I2   Amzn.com/billWA,11.07,Oct,10,6,2026,Tue,Credit,4
