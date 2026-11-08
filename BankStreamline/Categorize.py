@@ -35,7 +35,7 @@ def make_categories(df):
         .when(pl.col('description').str.contains('MURPHY') & 
             ~pl.col('description').str.contains('DEPOSIT|1111')).then(pl.lit('gas'))
         .when(pl.col('description').str.contains('SHELL|CHEVRON|CIRCLE K|LOVE\'S|EXXON EXPRESSWAY|EXXON MISSLE')).then(pl.lit('gas'))
-        .when(pl.col('description').str.contains('MISSLE MART|NITRO STATION')).then(pl.lit('gas'))
+        .when(pl.col('description').str.contains('MISSLE MART|NITRO STATION|RAINBOW FOOD MART')).then(pl.lit('gas'))
                     # ======================= internet & phone =======================
         .when(pl.col('description').str.contains('VIASAT')).then(pl.lit('internet'))
         .when(pl.col('description').str.contains('OPTIMUM')).then(pl.lit('internet'))
@@ -56,6 +56,7 @@ def make_categories(df):
         .when(pl.col('description').str.contains('CENTRAL ARKANSAS LIBRA|WALLSTREETST2521|MYSTIC CREEK GOLF CLUB|LIME*RIDE')).then(pl.lit('fun'))
         .when(pl.col('description').str.contains('Six Flags|JUMSIM|GCOO SCOOTER|ONCE UPON A CHILD|BIRD APP|BEST WESTERN|LIME')).then(pl.lit('fun'))
         .when(pl.col('description').str.contains('SHREVEPORT AIRP|MAGIC MOUNTAIN PARKING|CITY OF SANTA MONICA|BEST LOCKERS')).then(pl.lit('fun'))
+        .when(pl.col('description').str.contains('TICKETS TO THE CITY')).then(pl.lit('fun'))
         .when((pl.col('description').str.contains('UNITED')) & ~(pl.col('description').str.contains('AG AND TURF'))).then(pl.lit('fun'))
                     # ======================= power =======================
         .when(pl.col('description').str.contains('ENTERGY')).then(pl.lit('power'))
@@ -66,7 +67,7 @@ def make_categories(df):
         .when(pl.col('description').str.contains('PROG DIRECT|STATE FARM')).then(pl.lit('progressive'))
                     # ======================= water =======================
         .when(pl.col('description').str.contains('SHARE CHECK')).then(pl.lit('water'))
-        .when(pl.col('description').str.contains('EL DORADO WATER UTI|EL DORADO WATER')).then(pl.lit('water'))
+        .when(pl.col('description').str.contains('EL DORADO WATER UTI|EL DORADO WATER|El Dorado Water')).then(pl.lit('water'))
                     # ======================= tithing =======================
         .when(pl.col('description').str.contains('Ch JesusChrist  DONATION|Ch JesusChrist DONATION')).then(pl.lit('tithing'))
                     # ======================= Natural Gas =======================
